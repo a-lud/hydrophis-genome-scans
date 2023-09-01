@@ -1,1 +1,0 @@
-/Users/alastairludington/Documents/phd/00_papers/sea-snake-selection/annotation/hydrophis_major/funannotate/Hydrophis_major.proteins.fa
