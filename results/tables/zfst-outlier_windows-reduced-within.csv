@@ -1,0 +1,6 @@
+comparison,Window type,50000,100000,150000,200000,250000
+HCU-HEL,+3,8,,,,
+HCU-HEL,-3,3,,1,,
+HCU-HMA,-3,15,2,1,1,
+HCU-HMA,+3,,1,,,
+HEL-HMA,-3,53,11,2,,3

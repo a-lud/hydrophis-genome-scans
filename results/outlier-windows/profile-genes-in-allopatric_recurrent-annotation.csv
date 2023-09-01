@@ -1,0 +1,668 @@
+classification,chromosome,region_start,region_end,transcript,gene_uniprot,gene_eggnog,description_uniprot,saccver,Tissue specificity
+high_div,chr1,398000000,399200000,FUN_004606,,,,,
+high_div,chr1,398000000,399200000,FUN_004607,,,,,
+high_div,chr1,398000000,399200000,FUN_004608,,,,,
+high_div,chr1,398000000,399200000,FUN_004609,,,,,
+high_div,chr1,398000000,399200000,FUN_004610,BCL11A,BCL11A,B-cell lymphoma/leukemia 11A (BCL-11A) (B-cell CLL/lymphoma 11A) (COUP-TF-interacting protein 1) (Ecotropic viral integration site 9 protein homolog) (EVI-9) (Zinc finger protein 856),Q9H165,"TISSUE SPECIFICITY: Expressed at high levels in brain, spleen thymus, bone marrow and testis. Expressed in CD34-positive myeloid precursor cells, B-cells, monocytes and megakaryocytes. Expression is tightly regulated during B-cell development. {ECO:0000269|PubMed:11161790, ECO:0000269|PubMed:11719382}.; TISSUE SPECIFICITY: [Isoform 1]: Expressed in fetal and adult brain, and in the plasmacytoid dendritic cell. {ECO:0000269|PubMed:16704730}."
+high_div,chr1,398000000,399200000,FUN_004611,,,,,
+high_div,chr1,398000000,399200000,FUN_004612,,,,,
+high_div,chr1,398000000,399200000,FUN_004613,,,,,
+high_div,chr1,398000000,399200000,FUN_004614,PAPOLG,PAPOLG,Poly(A) polymerase gamma (PAP-gamma) (EC 2.7.7.19) (Polynucleotide adenylyltransferase gamma) (SRP RNA 3'-adenylating enzyme) (Signal recognition particle RNA-adenylating enzyme) (SRP RNA-adenylating enzyme),Q6PCL9,
+high_div,chr1,398000000,399200000,FUN_004615,REL,REL,Proto-oncogene c-Rel (p68),P16236,
+high_div,chr1,398000000,399200000,FUN_004616,PUS10,PUS10,tRNA pseudouridine synthase Pus10 (Hup10) (EC 5.4.99.25) (Coiled-coil domain-containing protein 139) (tRNA pseudouridine 55 synthase) (Psi55 synthase) (tRNA pseudouridylate synthase) (tRNA-uridine isomerase),Q3MIT2,
+high_div,chr1,398000000,399200000,FUN_004617,PEX13,PEX13,Peroxisomal membrane protein PEX13 (Peroxin-13),Q92968,
+high_div,chr1,398000000,399200000,FUN_004618,SANBR,KIAA1841,SANT and BTB domain regulator of class switch recombination (SANT and BTB domain regulator of CSR),Q6NSI8,
+high_div,chr1,398000000,399200000,FUN_004619,,,,,
+high_div,chr1,398000000,399200000,FUN_004620,USP34,USP34,Ubiquitin carboxyl-terminal hydrolase 34 (EC 3.4.19.12) (Deubiquitinating enzyme 34) (Ubiquitin thioesterase 34) (Ubiquitin-specific-processing protease 34),Q70CQ2,TISSUE SPECIFICITY: Expressed in brain at low level. {ECO:0000269|PubMed:14715245}.
+high_div,chr1,398000000,399200000,FUN_004626,,,,,
+high_div,chr1,398000000,399200000,FUN_004627,XPO1,XPO1,Exportin-1 (Exp1) (Chromosome region maintenance 1 protein homolog),Q6P5F9,
+high_div,chr1,398000000,399200000,FUN_004628,,,,,
+high_div,chr1,398000000,399200000,FUN_004629,CTS-P2,,Crotasin,Q6HAA2,"TISSUE SPECIFICITY: Highly expressed in pancreas, heart, liver, brain and kidney. Expressed to a low extent in the venom gland. {ECO:0000269|PubMed:15284009}."
+high_div,chr1,398000000,399200000,FUN_004630,NHLH2,NHLH2,Helix-loop-helix protein 2 (HEN-2) (Class A basic helix-loop-helix protein 34) (bHLHa34) (Nescient helix loop helix 2) (NSCL-2),Q02577,
+high_div,chr1,398000000,399200000,FUN_004631,CTS-P2,,Crotasin,Q6HAA2,"TISSUE SPECIFICITY: Highly expressed in pancreas, heart, liver, brain and kidney. Expressed to a low extent in the venom gland. {ECO:0000269|PubMed:15284009}."
+high_div,chr1,398000000,399200000,FUN_004606,,,,,
+high_div,chr1,398000000,399200000,FUN_004607,,,,,
+high_div,chr1,398000000,399200000,FUN_004608,,,,,
+high_div,chr1,398000000,399200000,FUN_004609,,,,,
+high_div,chr1,398000000,399200000,FUN_004610,BCL11A,BCL11A,B-cell lymphoma/leukemia 11A (BCL-11A) (B-cell CLL/lymphoma 11A) (COUP-TF-interacting protein 1) (Ecotropic viral integration site 9 protein homolog) (EVI-9) (Zinc finger protein 856),Q9H165,"TISSUE SPECIFICITY: Expressed at high levels in brain, spleen thymus, bone marrow and testis. Expressed in CD34-positive myeloid precursor cells, B-cells, monocytes and megakaryocytes. Expression is tightly regulated during B-cell development. {ECO:0000269|PubMed:11161790, ECO:0000269|PubMed:11719382}.; TISSUE SPECIFICITY: [Isoform 1]: Expressed in fetal and adult brain, and in the plasmacytoid dendritic cell. {ECO:0000269|PubMed:16704730}."
+high_div,chr1,398000000,399200000,FUN_004611,,,,,
+high_div,chr1,398000000,399200000,FUN_004612,,,,,
+high_div,chr1,398000000,399200000,FUN_004613,,,,,
+high_div,chr1,398000000,399200000,FUN_004614,PAPOLG,PAPOLG,Poly(A) polymerase gamma (PAP-gamma) (EC 2.7.7.19) (Polynucleotide adenylyltransferase gamma) (SRP RNA 3'-adenylating enzyme) (Signal recognition particle RNA-adenylating enzyme) (SRP RNA-adenylating enzyme),Q6PCL9,
+high_div,chr1,398000000,399200000,FUN_004615,REL,REL,Proto-oncogene c-Rel (p68),P16236,
+high_div,chr1,398000000,399200000,FUN_004616,PUS10,PUS10,tRNA pseudouridine synthase Pus10 (Hup10) (EC 5.4.99.25) (Coiled-coil domain-containing protein 139) (tRNA pseudouridine 55 synthase) (Psi55 synthase) (tRNA pseudouridylate synthase) (tRNA-uridine isomerase),Q3MIT2,
+high_div,chr1,398000000,399200000,FUN_004617,PEX13,PEX13,Peroxisomal membrane protein PEX13 (Peroxin-13),Q92968,
+high_div,chr1,398000000,399200000,FUN_004618,SANBR,KIAA1841,SANT and BTB domain regulator of class switch recombination (SANT and BTB domain regulator of CSR),Q6NSI8,
+high_div,chr1,398000000,399200000,FUN_004619,,,,,
+high_div,chr1,398000000,399200000,FUN_004620,USP34,USP34,Ubiquitin carboxyl-terminal hydrolase 34 (EC 3.4.19.12) (Deubiquitinating enzyme 34) (Ubiquitin thioesterase 34) (Ubiquitin-specific-processing protease 34),Q70CQ2,TISSUE SPECIFICITY: Expressed in brain at low level. {ECO:0000269|PubMed:14715245}.
+high_div,chr1,398000000,399200000,FUN_004626,,,,,
+high_div,chr1,398000000,399200000,FUN_004627,XPO1,XPO1,Exportin-1 (Exp1) (Chromosome region maintenance 1 protein homolog),Q6P5F9,
+high_div,chr1,398000000,399200000,FUN_004628,,,,,
+high_div,chr1,398000000,399200000,FUN_004629,CTS-P2,,Crotasin,Q6HAA2,"TISSUE SPECIFICITY: Highly expressed in pancreas, heart, liver, brain and kidney. Expressed to a low extent in the venom gland. {ECO:0000269|PubMed:15284009}."
+high_div,chr1,398000000,399200000,FUN_004630,NHLH2,NHLH2,Helix-loop-helix protein 2 (HEN-2) (Class A basic helix-loop-helix protein 34) (bHLHa34) (Nescient helix loop helix 2) (NSCL-2),Q02577,
+high_div,chr1,398000000,399200000,FUN_004631,CTS-P2,,Crotasin,Q6HAA2,"TISSUE SPECIFICITY: Highly expressed in pancreas, heart, liver, brain and kidney. Expressed to a low extent in the venom gland. {ECO:0000269|PubMed:15284009}."
+low_div,chr1,399200000,400100000,FUN_004632,,,,,
+low_div,chr1,399200000,400100000,FUN_004633,,,,,
+low_div,chr1,399200000,400100000,FUN_004634,,,,,
+low_div,chr1,399200000,400100000,FUN_004635,,,,,
+low_div,chr1,399200000,400100000,FUN_004632,,,,,
+low_div,chr1,399200000,400100000,FUN_004633,,,,,
+low_div,chr1,399200000,400100000,FUN_004634,,,,,
+low_div,chr1,399200000,400100000,FUN_004635,,,,,
+high_div,chr1,400200000,401000000,FUN_004637,GAL9,,Gallinacin-9 (Gal-9) (Beta-defensin 9) (Gallinacin-6) (Gal-6),Q6QLR1,"TISSUE SPECIFICITY: Strong expression in the testis, liver, gall bladder, kidney, esophagus and crop. Also expressed in the glandular stomach, ovary and male and female reproductive tracts. Low expression in the intestinal tract. Expressed in the ovarian stroma, but not in the ovarian follicles. {ECO:0000269|PubMed:15148642, ECO:0000269|PubMed:15310403, ECO:0000269|PubMed:17194828, ECO:0000269|PubMed:17244739}."
+high_div,chr1,400200000,401000000,FUN_004638,GAL9,,Gallinacin-9 (Gal-9) (Beta-defensin 9) (Gallinacin-6) (Gal-6),Q6QLR1,"TISSUE SPECIFICITY: Strong expression in the testis, liver, gall bladder, kidney, esophagus and crop. Also expressed in the glandular stomach, ovary and male and female reproductive tracts. Low expression in the intestinal tract. Expressed in the ovarian stroma, but not in the ovarian follicles. {ECO:0000269|PubMed:15148642, ECO:0000269|PubMed:15310403, ECO:0000269|PubMed:17194828, ECO:0000269|PubMed:17244739}."
+high_div,chr1,400200000,401000000,FUN_004640,,,,,
+high_div,chr1,400200000,401000000,FUN_004641,,,,,
+high_div,chr1,400200000,401000000,FUN_004642,,,,,
+high_div,chr1,400200000,401000000,FUN_30329,,,,,
+high_div,chr1,400200000,401000000,FUN_004643,CTSB,CTSB,Cathepsin B (EC 3.4.22.1) (Cathepsin B1) [Cleaved into: Cathepsin B light chain; Cathepsin B heavy chain],P43233,
+high_div,chr1,400200000,401000000,FUN_004644,FDFT1,FDFT1,Squalene synthase (SQS) (SS) (EC 2.5.1.21) (FPP:FPP farnesyltransferase) (Farnesyl-diphosphate farnesyltransferase),Q5R6U3,
+high_div,chr1,400200000,401000000,FUN_004645,NEIL2,NEIL2,Endonuclease 8-like 2 (EC 3.2.2.-) (EC 4.2.99.18) (DNA glycosylase/AP lyase Neil2) (DNA-(apurinic or apyrimidinic site) lyase Neil2) (Endonuclease VIII-like 2) (Nei homolog 2) (NEH2) (Nei-like protein 2),Q969S2,"TISSUE SPECIFICITY: Detected in testis, skeletal muscle, heart, brain, placenta, lung, pancreas, kidney and liver. {ECO:0000269|PubMed:12097317}."
+high_div,chr1,400200000,401000000,FUN_004646,GATA4,GATA4,Transcription factor GATA-4 (GATA-binding factor 4),P43691,"TISSUE SPECIFICITY: More abundant in heart, with lower levels detected in ovary and small intestine."
+high_div,chr1,400200000,401000000,FUN_004647,,,,,
+high_div,chr1,400200000,401000000,FUN_004637,GAL9,,Gallinacin-9 (Gal-9) (Beta-defensin 9) (Gallinacin-6) (Gal-6),Q6QLR1,"TISSUE SPECIFICITY: Strong expression in the testis, liver, gall bladder, kidney, esophagus and crop. Also expressed in the glandular stomach, ovary and male and female reproductive tracts. Low expression in the intestinal tract. Expressed in the ovarian stroma, but not in the ovarian follicles. {ECO:0000269|PubMed:15148642, ECO:0000269|PubMed:15310403, ECO:0000269|PubMed:17194828, ECO:0000269|PubMed:17244739}."
+high_div,chr1,400200000,401000000,FUN_004638,GAL9,,Gallinacin-9 (Gal-9) (Beta-defensin 9) (Gallinacin-6) (Gal-6),Q6QLR1,"TISSUE SPECIFICITY: Strong expression in the testis, liver, gall bladder, kidney, esophagus and crop. Also expressed in the glandular stomach, ovary and male and female reproductive tracts. Low expression in the intestinal tract. Expressed in the ovarian stroma, but not in the ovarian follicles. {ECO:0000269|PubMed:15148642, ECO:0000269|PubMed:15310403, ECO:0000269|PubMed:17194828, ECO:0000269|PubMed:17244739}."
+high_div,chr1,400200000,401000000,FUN_004640,,,,,
+high_div,chr1,400200000,401000000,FUN_004641,,,,,
+high_div,chr1,400200000,401000000,FUN_004642,,,,,
+high_div,chr1,400200000,401000000,FUN_30329,,,,,
+high_div,chr1,400200000,401000000,FUN_004643,CTSB,CTSB,Cathepsin B (EC 3.4.22.1) (Cathepsin B1) [Cleaved into: Cathepsin B light chain; Cathepsin B heavy chain],P43233,
+high_div,chr1,400200000,401000000,FUN_004644,FDFT1,FDFT1,Squalene synthase (SQS) (SS) (EC 2.5.1.21) (FPP:FPP farnesyltransferase) (Farnesyl-diphosphate farnesyltransferase),Q5R6U3,
+high_div,chr1,400200000,401000000,FUN_004645,NEIL2,NEIL2,Endonuclease 8-like 2 (EC 3.2.2.-) (EC 4.2.99.18) (DNA glycosylase/AP lyase Neil2) (DNA-(apurinic or apyrimidinic site) lyase Neil2) (Endonuclease VIII-like 2) (Nei homolog 2) (NEH2) (Nei-like protein 2),Q969S2,"TISSUE SPECIFICITY: Detected in testis, skeletal muscle, heart, brain, placenta, lung, pancreas, kidney and liver. {ECO:0000269|PubMed:12097317}."
+high_div,chr1,400200000,401000000,FUN_004646,GATA4,GATA4,Transcription factor GATA-4 (GATA-binding factor 4),P43691,"TISSUE SPECIFICITY: More abundant in heart, with lower levels detected in ovary and small intestine."
+high_div,chr1,400200000,401000000,FUN_004647,,,,,
+high_div,chr3,139900000,146900000,FUN_011714,BRINP3,BRINP3,BMP/retinoic acid-inducible neural-specific protein 3 (DBCCR1-like protein 1),Q76B58,"TISSUE SPECIFICITY: Strongly expressed in oral keratinocytes compared to the weak expression in tongue squamous cell carcinoma (SCC). Expressed in endothelial and aortic smooth muscle cells. Overexpressed in gonadotropinomas compared to normal pituitarie tissues. {ECO:0000269|PubMed:17138656, ECO:0000269|PubMed:18430236, ECO:0000269|PubMed:19787213}."
+high_div,chr3,139900000,146900000,FUN_011715,,,,,
+high_div,chr3,139900000,146900000,FUN_011716,,,,,
+high_div,chr3,139900000,146900000,FUN_011717,,,,,
+high_div,chr3,139900000,146900000,FUN_011718,,,,,
+high_div,chr3,139900000,146900000,FUN_011719,,,,,
+high_div,chr3,139900000,146900000,FUN_011720,RGS18,RGS18,Regulator of G-protein signaling 18 (RGS18),Q9NS28,"TISSUE SPECIFICITY: Expressed in peripheral leukocytes, bone marrow, platelet, spleen and fetal liver. {ECO:0000269|PubMed:11042171, ECO:0000269|PubMed:11955952}."
+high_div,chr3,139900000,146900000,FUN_011721,RGS21,RGS21,Regulator of G-protein signaling 21 (RGS21),Q2M5E4,TISSUE SPECIFICITY: Expressed ubiquitously. {ECO:0000269|PubMed:16302027}.
+high_div,chr3,139900000,146900000,FUN_011722,,,,,
+high_div,chr3,139900000,146900000,FUN_011723,RGS1,RGS1,Regulator of G-protein signaling 1 (RGS1),Q9JL25,"TISSUE SPECIFICITY: Detected in spleen, lymph node and intestine. {ECO:0000269|PubMed:10779778}."
+high_div,chr3,139900000,146900000,FUN_011724,RGS13,,Regulator of G-protein signaling 13 (RGS13),Q8K443,
+high_div,chr3,139900000,146900000,FUN_011725,RGS2,RGS2,Regulator of G-protein signaling 2 (RGS2),Q0P5H5,
+high_div,chr3,139900000,146900000,FUN_011726,UCHL5,UCHL5,Ubiquitin carboxyl-terminal hydrolase isozyme L5 (UCH-L5) (EC 3.4.19.12) (Ubiquitin thioesterase L5),Q06AT3,
+high_div,chr3,139900000,146900000,FUN_011727,RO60,TROVE2,RNA-binding protein RO60 (60 kDa SS-A/Ro ribonucleoprotein) (60 kDa Ro protein) (60 kDa ribonucleoprotein Ro) (RoRNP) (Ro 60 kDa autoantigen) (Ro60 autoantigen) (Sjoegren syndrome antigen A2) (Sjoegren syndrome type A antigen) (SS-A) (TROVE domain family member 2),P10155,
+high_div,chr3,139900000,146900000,FUN_011728,,,,,
+high_div,chr3,139900000,146900000,FUN_011729,GLRX2,GLRX2,"Glutaredoxin-2, mitochondrial",Q923X4,"TISSUE SPECIFICITY: Widely expressed. Highly expressed in testis, and at much lower level in kidney and brain. {ECO:0000269|PubMed:12954614}."
+high_div,chr3,139900000,146900000,FUN_011730,CDC73,CDC73,Parafibromin (Cell division cycle protein 73 homolog),Q5ZLM0,
+high_div,chr3,139900000,146900000,FUN_011731,,,,,
+high_div,chr3,139900000,146900000,FUN_011732,,,,,
+high_div,chr3,139900000,146900000,FUN_011733,,,,,
+high_div,chr3,139900000,146900000,FUN_011734,,,,,
+high_div,chr3,139900000,146900000,FUN_011735,,,,,
+high_div,chr3,139900000,146900000,FUN_011736,,,,,
+high_div,chr3,139900000,146900000,FUN_011737,,,,,
+high_div,chr3,139900000,146900000,FUN_011738,,,,,
+high_div,chr3,139900000,146900000,FUN_011739,,,,,
+high_div,chr3,139900000,146900000,FUN_011740,,,,,
+high_div,chr3,139900000,146900000,FUN_30774,KCNT2,KCNT2,Potassium channel subfamily T member 2 (Sequence like an intermediate conductance potassium channel subunit) (Sodium and chloride-activated ATP-sensitive potassium channel Slo2.1),Q6UVM3,
+high_div,chr3,139900000,146900000,FUN_011742,CFH,,Complement factor H (Protein beta-1-H),P06909,"TISSUE SPECIFICITY: CFH is one of the most abundant complement components in blood where the liver is the major source of CFH protein in vivo. in addition, CFH is secreted by additional cell types including monocytes, fibroblasts, or endothelial cells. {ECO:0000250|UniProtKB:P08603}."
+high_div,chr3,139900000,146900000,FUN_011743,CFH,,Complement factor H (H factor 1),P08603,"TISSUE SPECIFICITY: Expressed in the retinal pigment epithelium (at protein level) (PubMed:25136834). CFH is one of the most abundant complement components in blood where the liver is the major source of CFH protein in vivo. in addition, CFH is secreted by additional cell types including monocytes, fibroblasts, or endothelial cells (PubMed:6444659, PubMed:2968404, PubMed:2139673, PubMed:25136834). {ECO:0000269|PubMed:2139673, ECO:0000269|PubMed:25136834, ECO:0000269|PubMed:2968404, ECO:0000269|PubMed:6444659}."
+high_div,chr3,139900000,146900000,FUN_011744,CFH,,Complement factor H (Protein beta-1-H),P06909,"TISSUE SPECIFICITY: CFH is one of the most abundant complement components in blood where the liver is the major source of CFH protein in vivo. in addition, CFH is secreted by additional cell types including monocytes, fibroblasts, or endothelial cells. {ECO:0000250|UniProtKB:P08603}."
+high_div,chr3,139900000,146900000,FUN_011745,CFH,,Complement factor H (H factor 1),Q28085,"TISSUE SPECIFICITY: CFH is one of the most abundant complement components in blood where the liver is the major source of CFH protein in vivo. in addition, CFH is secreted by additional cell types including monocytes, fibroblasts, or endothelial cells. {ECO:0000250|UniProtKB:P08603}."
+high_div,chr3,139900000,146900000,FUN_011746,,,,,
+high_div,chr3,139900000,146900000,FUN_011747,CFHR1,,Complement factor H-related protein 1 (FHR-1) (H factor-like protein 1) (FHL-1) (H-factor-like 1) (H36),Q03591,TISSUE SPECIFICITY: Expressed by the liver and secreted in plasma.
+high_div,chr3,139900000,146900000,FUN_011748,CFHR5,CFH,Complement factor H-related protein 5 (FHR-5),Q9BXR6,TISSUE SPECIFICITY: Expressed by the liver and secreted in plasma.
+high_div,chr3,139900000,146900000,FUN_30775,,,,,
+high_div,chr3,139900000,146900000,FUN_011749,,,,,
+high_div,chr3,139900000,146900000,FUN_011750,CFHR1,,Complement factor H-related protein 1 (FHR-1) (H factor-like protein 1) (FHL-1) (H-factor-like 1) (H36),Q03591,TISSUE SPECIFICITY: Expressed by the liver and secreted in plasma.
+high_div,chr3,139900000,146900000,FUN_011751,CFH,,Complement factor H (H factor 1),Q28085,"TISSUE SPECIFICITY: CFH is one of the most abundant complement components in blood where the liver is the major source of CFH protein in vivo. in addition, CFH is secreted by additional cell types including monocytes, fibroblasts, or endothelial cells. {ECO:0000250|UniProtKB:P08603}."
+high_div,chr3,139900000,146900000,FUN_011753,F13B,F13B,Coagulation factor XIII B chain (Fibrin-stabilizing factor B subunit) (Protein-glutamine gamma-glutamyltransferase B chain) (Transglutaminase B chain),P05160,
+high_div,chr3,139900000,146900000,FUN_011754,ASPM,ASPM,Abnormal spindle-like microcephaly-associated protein homolog,P62286,
+high_div,chr3,139900000,146900000,FUN_011755,ZBTB41,ZBTB41,Zinc finger and BTB domain-containing protein 41,Q811F1,
+high_div,chr3,139900000,146900000,FUN_011756,,,,,
+high_div,chr3,139900000,146900000,FUN_011757,CRB1,,Protein crumbs homolog 1,P82279,"TISSUE SPECIFICITY: Preferential expression in retina, also expressed in brain, testis, fetal brain and fetal eye (PubMed:15914641). Expressed at the outer limiting membrane and apical to adherens junctions in the retina (PubMed:15914641). {ECO:0000269|PubMed:15914641}."
+high_div,chr3,139900000,146900000,FUN_011758,,,,,
+high_div,chr3,139900000,146900000,FUN_011760,DENND1B,DENND1B,DENN domain-containing protein 1B (Connecdenn 2) (Protein FAM31B),Q6P3S1,TISSUE SPECIFICITY: Highly expressed in dendritic and natural killer cells and at lower levels in other myeloid lineage cells and in pituitary. Significantly up-regulated in effector memory T-cells as compared with naive T-cells. {ECO:0000269|PubMed:20032318}.
+high_div,chr3,139900000,146900000,FUN_011761,,,,,
+high_div,chr3,139900000,146900000,FUN_011762,LHX9,LHX9,LIM/homeobox protein Lhx9 (LIM homeobox protein 9),Q90881,
+high_div,chr3,139900000,146900000,FUN_011763,NEK7,NEK7,Serine/threonine-protein kinase Nek7 (EC 2.7.11.34) (Never in mitosis A-related kinase 7) (NimA-related protein kinase 7),Q9ES74,
+high_div,chr3,139900000,146900000,FUN_011714,BRINP3,BRINP3,BMP/retinoic acid-inducible neural-specific protein 3 (DBCCR1-like protein 1),Q76B58,"TISSUE SPECIFICITY: Strongly expressed in oral keratinocytes compared to the weak expression in tongue squamous cell carcinoma (SCC). Expressed in endothelial and aortic smooth muscle cells. Overexpressed in gonadotropinomas compared to normal pituitarie tissues. {ECO:0000269|PubMed:17138656, ECO:0000269|PubMed:18430236, ECO:0000269|PubMed:19787213}."
+high_div,chr3,139900000,146900000,FUN_011715,,,,,
+high_div,chr3,139900000,146900000,FUN_011716,,,,,
+high_div,chr3,139900000,146900000,FUN_011717,,,,,
+high_div,chr3,139900000,146900000,FUN_011718,,,,,
+high_div,chr3,139900000,146900000,FUN_011719,,,,,
+high_div,chr3,139900000,146900000,FUN_011720,RGS18,RGS18,Regulator of G-protein signaling 18 (RGS18),Q9NS28,"TISSUE SPECIFICITY: Expressed in peripheral leukocytes, bone marrow, platelet, spleen and fetal liver. {ECO:0000269|PubMed:11042171, ECO:0000269|PubMed:11955952}."
+high_div,chr3,139900000,146900000,FUN_011721,RGS21,RGS21,Regulator of G-protein signaling 21 (RGS21),Q2M5E4,TISSUE SPECIFICITY: Expressed ubiquitously. {ECO:0000269|PubMed:16302027}.
+high_div,chr3,139900000,146900000,FUN_011722,,,,,
+high_div,chr3,139900000,146900000,FUN_011723,RGS1,RGS1,Regulator of G-protein signaling 1 (RGS1),Q9JL25,"TISSUE SPECIFICITY: Detected in spleen, lymph node and intestine. {ECO:0000269|PubMed:10779778}."
+high_div,chr3,139900000,146900000,FUN_011724,RGS13,,Regulator of G-protein signaling 13 (RGS13),Q8K443,
+high_div,chr3,139900000,146900000,FUN_011725,RGS2,RGS2,Regulator of G-protein signaling 2 (RGS2),Q0P5H5,
+high_div,chr3,139900000,146900000,FUN_011726,UCHL5,UCHL5,Ubiquitin carboxyl-terminal hydrolase isozyme L5 (UCH-L5) (EC 3.4.19.12) (Ubiquitin thioesterase L5),Q06AT3,
+high_div,chr3,139900000,146900000,FUN_011727,RO60,TROVE2,RNA-binding protein RO60 (60 kDa SS-A/Ro ribonucleoprotein) (60 kDa Ro protein) (60 kDa ribonucleoprotein Ro) (RoRNP) (Ro 60 kDa autoantigen) (Ro60 autoantigen) (Sjoegren syndrome antigen A2) (Sjoegren syndrome type A antigen) (SS-A) (TROVE domain family member 2),P10155,
+high_div,chr3,139900000,146900000,FUN_011728,,,,,
+high_div,chr3,139900000,146900000,FUN_011729,GLRX2,GLRX2,"Glutaredoxin-2, mitochondrial",Q923X4,"TISSUE SPECIFICITY: Widely expressed. Highly expressed in testis, and at much lower level in kidney and brain. {ECO:0000269|PubMed:12954614}."
+high_div,chr3,139900000,146900000,FUN_011730,CDC73,CDC73,Parafibromin (Cell division cycle protein 73 homolog),Q5ZLM0,
+high_div,chr3,139900000,146900000,FUN_011731,,,,,
+high_div,chr3,139900000,146900000,FUN_011732,,,,,
+high_div,chr3,139900000,146900000,FUN_011733,,,,,
+high_div,chr3,139900000,146900000,FUN_011734,,,,,
+high_div,chr3,139900000,146900000,FUN_011735,,,,,
+high_div,chr3,139900000,146900000,FUN_011736,,,,,
+high_div,chr3,139900000,146900000,FUN_011737,,,,,
+high_div,chr3,139900000,146900000,FUN_011738,,,,,
+high_div,chr3,139900000,146900000,FUN_011739,,,,,
+high_div,chr3,139900000,146900000,FUN_011740,,,,,
+high_div,chr3,139900000,146900000,FUN_30774,KCNT2,KCNT2,Potassium channel subfamily T member 2 (Sequence like an intermediate conductance potassium channel subunit) (Sodium and chloride-activated ATP-sensitive potassium channel Slo2.1),Q6UVM3,
+high_div,chr3,139900000,146900000,FUN_011742,CFH,,Complement factor H (Protein beta-1-H),P06909,"TISSUE SPECIFICITY: CFH is one of the most abundant complement components in blood where the liver is the major source of CFH protein in vivo. in addition, CFH is secreted by additional cell types including monocytes, fibroblasts, or endothelial cells. {ECO:0000250|UniProtKB:P08603}."
+high_div,chr3,139900000,146900000,FUN_011743,CFH,,Complement factor H (H factor 1),P08603,"TISSUE SPECIFICITY: Expressed in the retinal pigment epithelium (at protein level) (PubMed:25136834). CFH is one of the most abundant complement components in blood where the liver is the major source of CFH protein in vivo. in addition, CFH is secreted by additional cell types including monocytes, fibroblasts, or endothelial cells (PubMed:6444659, PubMed:2968404, PubMed:2139673, PubMed:25136834). {ECO:0000269|PubMed:2139673, ECO:0000269|PubMed:25136834, ECO:0000269|PubMed:2968404, ECO:0000269|PubMed:6444659}."
+high_div,chr3,139900000,146900000,FUN_011744,CFH,,Complement factor H (Protein beta-1-H),P06909,"TISSUE SPECIFICITY: CFH is one of the most abundant complement components in blood where the liver is the major source of CFH protein in vivo. in addition, CFH is secreted by additional cell types including monocytes, fibroblasts, or endothelial cells. {ECO:0000250|UniProtKB:P08603}."
+high_div,chr3,139900000,146900000,FUN_011745,CFH,,Complement factor H (H factor 1),Q28085,"TISSUE SPECIFICITY: CFH is one of the most abundant complement components in blood where the liver is the major source of CFH protein in vivo. in addition, CFH is secreted by additional cell types including monocytes, fibroblasts, or endothelial cells. {ECO:0000250|UniProtKB:P08603}."
+high_div,chr3,139900000,146900000,FUN_011746,,,,,
+high_div,chr3,139900000,146900000,FUN_011747,CFHR1,,Complement factor H-related protein 1 (FHR-1) (H factor-like protein 1) (FHL-1) (H-factor-like 1) (H36),Q03591,TISSUE SPECIFICITY: Expressed by the liver and secreted in plasma.
+high_div,chr3,139900000,146900000,FUN_011748,CFHR5,CFH,Complement factor H-related protein 5 (FHR-5),Q9BXR6,TISSUE SPECIFICITY: Expressed by the liver and secreted in plasma.
+high_div,chr3,139900000,146900000,FUN_30775,,,,,
+high_div,chr3,139900000,146900000,FUN_011749,,,,,
+high_div,chr3,139900000,146900000,FUN_011750,CFHR1,,Complement factor H-related protein 1 (FHR-1) (H factor-like protein 1) (FHL-1) (H-factor-like 1) (H36),Q03591,TISSUE SPECIFICITY: Expressed by the liver and secreted in plasma.
+high_div,chr3,139900000,146900000,FUN_011751,CFH,,Complement factor H (H factor 1),Q28085,"TISSUE SPECIFICITY: CFH is one of the most abundant complement components in blood where the liver is the major source of CFH protein in vivo. in addition, CFH is secreted by additional cell types including monocytes, fibroblasts, or endothelial cells. {ECO:0000250|UniProtKB:P08603}."
+high_div,chr3,139900000,146900000,FUN_011753,F13B,F13B,Coagulation factor XIII B chain (Fibrin-stabilizing factor B subunit) (Protein-glutamine gamma-glutamyltransferase B chain) (Transglutaminase B chain),P05160,
+high_div,chr3,139900000,146900000,FUN_011754,ASPM,ASPM,Abnormal spindle-like microcephaly-associated protein homolog,P62286,
+high_div,chr3,139900000,146900000,FUN_011755,ZBTB41,ZBTB41,Zinc finger and BTB domain-containing protein 41,Q811F1,
+high_div,chr3,139900000,146900000,FUN_011756,,,,,
+high_div,chr3,139900000,146900000,FUN_011757,CRB1,,Protein crumbs homolog 1,P82279,"TISSUE SPECIFICITY: Preferential expression in retina, also expressed in brain, testis, fetal brain and fetal eye (PubMed:15914641). Expressed at the outer limiting membrane and apical to adherens junctions in the retina (PubMed:15914641). {ECO:0000269|PubMed:15914641}."
+high_div,chr3,139900000,146900000,FUN_011758,,,,,
+high_div,chr3,139900000,146900000,FUN_011760,DENND1B,DENND1B,DENN domain-containing protein 1B (Connecdenn 2) (Protein FAM31B),Q6P3S1,TISSUE SPECIFICITY: Highly expressed in dendritic and natural killer cells and at lower levels in other myeloid lineage cells and in pituitary. Significantly up-regulated in effector memory T-cells as compared with naive T-cells. {ECO:0000269|PubMed:20032318}.
+high_div,chr3,139900000,146900000,FUN_011761,,,,,
+high_div,chr3,139900000,146900000,FUN_011762,LHX9,LHX9,LIM/homeobox protein Lhx9 (LIM homeobox protein 9),Q90881,
+high_div,chr3,139900000,146900000,FUN_011763,NEK7,NEK7,Serine/threonine-protein kinase Nek7 (EC 2.7.11.34) (Never in mitosis A-related kinase 7) (NimA-related protein kinase 7),Q9ES74,
+low_div,chr3,145100000,145900000,FUN_011742,CFH,,Complement factor H (Protein beta-1-H),P06909,"TISSUE SPECIFICITY: CFH is one of the most abundant complement components in blood where the liver is the major source of CFH protein in vivo. in addition, CFH is secreted by additional cell types including monocytes, fibroblasts, or endothelial cells. {ECO:0000250|UniProtKB:P08603}."
+low_div,chr3,145100000,145900000,FUN_011743,CFH,,Complement factor H (H factor 1),P08603,"TISSUE SPECIFICITY: Expressed in the retinal pigment epithelium (at protein level) (PubMed:25136834). CFH is one of the most abundant complement components in blood where the liver is the major source of CFH protein in vivo. in addition, CFH is secreted by additional cell types including monocytes, fibroblasts, or endothelial cells (PubMed:6444659, PubMed:2968404, PubMed:2139673, PubMed:25136834). {ECO:0000269|PubMed:2139673, ECO:0000269|PubMed:25136834, ECO:0000269|PubMed:2968404, ECO:0000269|PubMed:6444659}."
+low_div,chr3,145100000,145900000,FUN_011744,CFH,,Complement factor H (Protein beta-1-H),P06909,"TISSUE SPECIFICITY: CFH is one of the most abundant complement components in blood where the liver is the major source of CFH protein in vivo. in addition, CFH is secreted by additional cell types including monocytes, fibroblasts, or endothelial cells. {ECO:0000250|UniProtKB:P08603}."
+low_div,chr3,145100000,145900000,FUN_011745,CFH,,Complement factor H (H factor 1),Q28085,"TISSUE SPECIFICITY: CFH is one of the most abundant complement components in blood where the liver is the major source of CFH protein in vivo. in addition, CFH is secreted by additional cell types including monocytes, fibroblasts, or endothelial cells. {ECO:0000250|UniProtKB:P08603}."
+low_div,chr3,145100000,145900000,FUN_011746,,,,,
+low_div,chr3,145100000,145900000,FUN_011747,CFHR1,,Complement factor H-related protein 1 (FHR-1) (H factor-like protein 1) (FHL-1) (H-factor-like 1) (H36),Q03591,TISSUE SPECIFICITY: Expressed by the liver and secreted in plasma.
+low_div,chr3,145100000,145900000,FUN_011748,CFHR5,CFH,Complement factor H-related protein 5 (FHR-5),Q9BXR6,TISSUE SPECIFICITY: Expressed by the liver and secreted in plasma.
+low_div,chr3,145100000,145900000,FUN_30775,,,,,
+low_div,chr3,145100000,145900000,FUN_011749,,,,,
+low_div,chr3,145100000,145900000,FUN_011750,CFHR1,,Complement factor H-related protein 1 (FHR-1) (H factor-like protein 1) (FHL-1) (H-factor-like 1) (H36),Q03591,TISSUE SPECIFICITY: Expressed by the liver and secreted in plasma.
+low_div,chr3,145100000,145900000,FUN_011751,CFH,,Complement factor H (H factor 1),Q28085,"TISSUE SPECIFICITY: CFH is one of the most abundant complement components in blood where the liver is the major source of CFH protein in vivo. in addition, CFH is secreted by additional cell types including monocytes, fibroblasts, or endothelial cells. {ECO:0000250|UniProtKB:P08603}."
+low_div,chr3,145100000,145900000,FUN_011742,CFH,,Complement factor H (Protein beta-1-H),P06909,"TISSUE SPECIFICITY: CFH is one of the most abundant complement components in blood where the liver is the major source of CFH protein in vivo. in addition, CFH is secreted by additional cell types including monocytes, fibroblasts, or endothelial cells. {ECO:0000250|UniProtKB:P08603}."
+low_div,chr3,145100000,145900000,FUN_011743,CFH,,Complement factor H (H factor 1),P08603,"TISSUE SPECIFICITY: Expressed in the retinal pigment epithelium (at protein level) (PubMed:25136834). CFH is one of the most abundant complement components in blood where the liver is the major source of CFH protein in vivo. in addition, CFH is secreted by additional cell types including monocytes, fibroblasts, or endothelial cells (PubMed:6444659, PubMed:2968404, PubMed:2139673, PubMed:25136834). {ECO:0000269|PubMed:2139673, ECO:0000269|PubMed:25136834, ECO:0000269|PubMed:2968404, ECO:0000269|PubMed:6444659}."
+low_div,chr3,145100000,145900000,FUN_011744,CFH,,Complement factor H (Protein beta-1-H),P06909,"TISSUE SPECIFICITY: CFH is one of the most abundant complement components in blood where the liver is the major source of CFH protein in vivo. in addition, CFH is secreted by additional cell types including monocytes, fibroblasts, or endothelial cells. {ECO:0000250|UniProtKB:P08603}."
+low_div,chr3,145100000,145900000,FUN_011745,CFH,,Complement factor H (H factor 1),Q28085,"TISSUE SPECIFICITY: CFH is one of the most abundant complement components in blood where the liver is the major source of CFH protein in vivo. in addition, CFH is secreted by additional cell types including monocytes, fibroblasts, or endothelial cells. {ECO:0000250|UniProtKB:P08603}."
+low_div,chr3,145100000,145900000,FUN_011746,,,,,
+low_div,chr3,145100000,145900000,FUN_011747,CFHR1,,Complement factor H-related protein 1 (FHR-1) (H factor-like protein 1) (FHL-1) (H-factor-like 1) (H36),Q03591,TISSUE SPECIFICITY: Expressed by the liver and secreted in plasma.
+low_div,chr3,145100000,145900000,FUN_011748,CFHR5,CFH,Complement factor H-related protein 5 (FHR-5),Q9BXR6,TISSUE SPECIFICITY: Expressed by the liver and secreted in plasma.
+low_div,chr3,145100000,145900000,FUN_30775,,,,,
+low_div,chr3,145100000,145900000,FUN_011749,,,,,
+low_div,chr3,145100000,145900000,FUN_011750,CFHR1,,Complement factor H-related protein 1 (FHR-1) (H factor-like protein 1) (FHL-1) (H-factor-like 1) (H36),Q03591,TISSUE SPECIFICITY: Expressed by the liver and secreted in plasma.
+low_div,chr3,145100000,145900000,FUN_011751,CFH,,Complement factor H (H factor 1),Q28085,"TISSUE SPECIFICITY: CFH is one of the most abundant complement components in blood where the liver is the major source of CFH protein in vivo. in addition, CFH is secreted by additional cell types including monocytes, fibroblasts, or endothelial cells. {ECO:0000250|UniProtKB:P08603}."
+high_div,chr4,113400000,123400000,FUN_014537,,,,,
+high_div,chr4,113400000,123400000,FUN_014538,,,,,
+high_div,chr4,113400000,123400000,FUN_014539,,,,,
+high_div,chr4,113400000,123400000,FUN_014540,,,,,
+high_div,chr4,113400000,123400000,FUN_014541,,,,,
+high_div,chr4,113400000,123400000,FUN_014542,,,,,
+high_div,chr4,113400000,123400000,FUN_014543,,,,,
+high_div,chr4,113400000,123400000,FUN_014544,,,,,
+high_div,chr4,113400000,123400000,FUN_014545,,,,,
+high_div,chr4,113400000,123400000,FUN_014546,,,,,
+high_div,chr4,113400000,123400000,FUN_014547,,,,,
+high_div,chr4,113400000,123400000,FUN_014548,CCSER2,CCSER2,Serine-rich coiled-coil domain-containing protein 2 (Coiled-coil serine-rich protein 2) (Protein GCAP14 homolog),Q9H7U1,
+high_div,chr4,113400000,123400000,FUN_014549,NDNF,,Protein NDNF (Neuron-derived neurotrophic factor),Q8TB73,TISSUE SPECIFICITY: Expressed in neurons along the gonadotropin-releasing hormone (GnRH) expressing neurons migratory route. {ECO:0000269|PubMed:31883645}.
+high_div,chr4,113400000,123400000,FUN_014550,,,,,
+high_div,chr4,113400000,123400000,FUN_014551,,,,,
+high_div,chr4,113400000,123400000,FUN_014552,BICC1,BICC1,Protein bicaudal C homolog 1 (Bic-C),Q9H694,
+high_div,chr4,113400000,123400000,FUN_30890,TY3B-I,,Transposon Ty3-I Gag-Pol polyprotein (Gag3-Pol3) (Transposon Ty3-2 TYA-TYB polyprotein) [Cleaved into: Capsid protein (CA) (p24); Spacer peptide p3; Nucleocapsid protein p11 (NC); Ty3 protease (PR) (EC 3.4.23.-) (p16); Spacer peptide J; Reverse transcriptase/ribonuclease H (RT) (RT-RH) (EC 2.7.7.49) (EC 2.7.7.7) (EC 3.1.26.4) (p55); Integrase p52 (IN); Integrase p49 (IN)],Q7LHG5,
+high_div,chr4,113400000,123400000,FUN_014553,,,,,
+high_div,chr4,113400000,123400000,FUN_014554,PHYHIPL,PHYHIPL,Phytanoyl-CoA hydroxylase-interacting protein-like,Q96FC7,
+high_div,chr4,113400000,123400000,FUN_014555,,,,,
+high_div,chr4,113400000,123400000,FUN_014556,FAM13C,FAM13C,Protein FAM13C,Q8NE31,
+high_div,chr4,113400000,123400000,FUN_014557,FAM13A,fam13c,Protein FAM13A,O94988,"TISSUE SPECIFICITY: Isoform 1 is widely expressed, with highest expression in skeletal muscle, thymus, brain and lung. Isoform 3 is less abundant than isoform 1 and predominantly expressed in kidney, pancreas, liver, lung and thymus. {ECO:0000269|PubMed:15234000}."
+high_div,chr4,113400000,123400000,FUN_014558,SLC16A9,SLC16A9,Monocarboxylate transporter 9 (MCT 9) (Solute carrier family 16 member 9),Q5R5M4,
+high_div,chr4,113400000,123400000,FUN_014559,CCDC6,CCDC6,Coiled-coil domain-containing protein 6,D3YZP9,
+high_div,chr4,113400000,123400000,FUN_014560,ANK3,,Ankyrin-3 (ANK-3) (Ankyrin-G),G5E8K5,"TISSUE SPECIFICITY: Expressed in many epithelial tissues, muscles and axons. Expressed in kidney, brain, skin, lung, liver, intestine, pancreas, heart and testis (at protein level). In testis, expressed in Leydig cells, but very weakly or not at all in Sertoli cells or seminiferous tubules. Expressed in macrophages (at protein level). {ECO:0000269|PubMed:23903368, ECO:0000269|PubMed:7615634, ECO:0000269|PubMed:9060470}."
+high_div,chr4,113400000,123400000,FUN_014561,,,,,
+high_div,chr4,113400000,123400000,FUN_014563,,,,,
+high_div,chr4,113400000,123400000,FUN_014564,CDK1,CDK1,Cyclin-dependent kinase 1 (CDK1) (EC 2.7.11.22) (EC 2.7.11.23) (Cell division control protein 2 homolog) (Cell division protein kinase 1) (p34 protein kinase),P13863,
+high_div,chr4,113400000,123400000,FUN_014565,,,,,
+high_div,chr4,113400000,123400000,FUN_014566,RHOBTB1,RHOBTB1,Rho-related BTB domain-containing protein 1,O94844,"TISSUE SPECIFICITY: Ubiquitous, with highest levels in skeletal muscle, placenta, testis, stomach, and kidney, followed by uterus and adrenal gland. Expressed in a variety of fetal tissues. {ECO:0000269|PubMed:12426103}."
+high_div,chr4,113400000,123400000,FUN_014567,,,,,
+high_div,chr4,113400000,123400000,FUN_014568,TMEM26,TMEM26,Transmembrane protein 26,Q6ZUK4,
+high_div,chr4,113400000,123400000,FUN_014569,CABCOCO1,C10orf107,Ciliary-associated calcium-binding coiled-coil protein 1,Q8CDT7,TISSUE SPECIFICITY: Testis-specific (PubMed:26990073). Expressed in spermatocytes and round spermatids (at protein level) (PubMed:26990073). {ECO:0000269|PubMed:26990073}.
+high_div,chr4,113400000,123400000,FUN_014569,CABCOCO1,C10orf107,Ciliary-associated calcium-binding coiled-coil protein 1,Q8CDT7,TISSUE SPECIFICITY: Testis-specific (PubMed:26990073). Expressed in spermatocytes and round spermatids (at protein level) (PubMed:26990073). {ECO:0000269|PubMed:26990073}.
+high_div,chr4,113400000,123400000,FUN_014570,ARID5B,ARID5B,AT-rich interactive domain-containing protein 5B (ARID domain-containing protein 5B),Q5ZJ69,
+high_div,chr4,113400000,123400000,FUN_014571,,,,,
+high_div,chr4,113400000,123400000,FUN_014572,,,,,
+high_div,chr4,113400000,123400000,FUN_014573,CAMK2G,CAMK2G,Calcium/calmodulin-dependent protein kinase type II subunit gamma (CaM kinase II subunit gamma) (CaMK-II subunit gamma) (EC 2.7.11.17),Q923T9,
+high_div,chr4,113400000,123400000,FUN_30891,,,,,
+high_div,chr4,113400000,123400000,FUN_014574,NDST2,NDST2,Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 2 (EC 2.8.2.8) (Glucosaminyl N-deacetylase/N-sulfotransferase 2) (NDST-2) (N-heparan sulfate sulfotransferase 2) (N-HSST 2) [Includes: Heparan sulfate N-deacetylase 2 (EC 3.-.-.-); Heparan sulfate N-sulfotransferase 2 (EC 2.8.2.-)],P52849,
+high_div,chr4,113400000,123400000,FUN_014575,,,,,
+high_div,chr4,113400000,123400000,FUN_014576,ZSWIM8,ZSWIM8,Zinc finger SWIM domain-containing protein 8,Q3UHH1,
+high_div,chr4,113400000,123400000,FUN_014577,PRSS12,,Neurotrypsin (EC 3.4.21.-) (Brain-specific serine protease 3) (BSSP-3) (Motopsin) (Serine protease 12),O08762,"TISSUE SPECIFICITY: Most abundant in cerebral cortex, hippocampus and amygdala."
+high_div,chr4,113400000,123400000,FUN_014578,CHCHD1,CHCHD1,"Small ribosomal subunit protein mS37 (28S ribosomal protein S37, mitochondrial) (MRP-S37) (Coiled-coil-helix-coiled-coil-helix domain-containing protein 1)",Q9CQA6,
+high_div,chr4,113400000,123400000,FUN_014579,FUT11,FUT11,"Alpha-(1,3)-fucosyltransferase 11 (EC 2.4.1.-) (Fucosyltransferase XI) (Fuc-TXI) (FucT-XI) (Galactoside 3-L-fucosyltransferase 11) (Fucosyltransferase 11)",Q8AWC7,
+high_div,chr4,113400000,123400000,FUN_014580,SEC24C,SEC24C,Protein transport protein Sec24C (SEC24-related protein C),P53992,TISSUE SPECIFICITY: Ubiquitous. {ECO:0000269|PubMed:10329445}.
+high_div,chr4,113400000,123400000,FUN_014581,SYNPO2L,SYNPO2L,Synaptopodin 2-like protein,Q8BWB1,
+high_div,chr4,113400000,123400000,FUN_014582,MYOZ1,MYOZ1,Myozenin-1 (Calsarcin-2),Q8SQ24,
+high_div,chr4,113400000,123400000,FUN_014583,,,,,
+high_div,chr4,113400000,123400000,FUN_014584,ANXA7,ANXA7,Annexin A7 (Annexin VII) (Annexin-7),Q4R5L5,
+high_div,chr4,113400000,123400000,FUN_014585,EIF3F,EIF3F,Eukaryotic translation initiation factor 3 subunit F (eIF3f) (Deubiquitinating enzyme eIF3f) (EC 3.4.19.12) (Eukaryotic translation initiation factor 3 subunit 5) (eIF-3-epsilon) (eIF3 p47),A5A6I3,
+high_div,chr4,113400000,123400000,FUN_014586,TM9SF3,TM9SF3,Transmembrane 9 superfamily member 3,Q9ET30,
+high_div,chr4,113400000,123400000,FUN_014587,PIK3AP1,PIK3AP1,Phosphoinositide 3-kinase adapter protein 1 (B-cell adapter for phosphoinositide 3-kinase) (B-cell phosphoinositide 3-kinase adapter protein 1),Q9DDT2,
+high_div,chr4,113400000,123400000,FUN_014588,NOLC1,NOLC1,Nucleolar and coiled-body phosphoprotein 1 (140 kDa nucleolar phosphoprotein) (Nopp140) (Hepatitis C virus NS5A-transactivated protein 13) (HCV NS5A-transactivated protein 13) (Nucleolar 130 kDa protein) (Nucleolar phosphoprotein p130),Q14978,
+high_div,chr4,113400000,123400000,FUN_30892,,,LINE-1 retrotransposable element ORF2 protein (ORF2p) [Includes: Reverse transcriptase (EC 2.7.7.49); Endonuclease (EC 3.1.21.-)],O00370,
+high_div,chr4,113400000,123400000,FUN_014589,PITX3,PITX3,Pituitary homeobox 3 (Homeobox protein PITX3) (XPitx-3) (xPitx3) (Paired-like homeodomain transcription factor 3),Q9I8K3,
+high_div,chr4,113400000,123400000,FUN_014590,,,,,
+high_div,chr4,113400000,123400000,FUN_30893,GBF1,GBF1,Golgi-specific brefeldin A-resistance guanine nucleotide exchange factor 1 (BFA-resistant GEF 1),Q92538,TISSUE SPECIFICITY: Ubiquitous.
+high_div,chr4,113400000,123400000,FUN_014592,GBF1,GBF1,Golgi-specific brefeldin A-resistance guanine nucleotide exchange factor 1 (BFA-resistant GEF 1),Q9R1D7,
+high_div,chr4,113400000,123400000,FUN_014591,,,,,
+high_div,chr4,113400000,123400000,FUN_30894,,,,,
+high_div,chr4,113400000,123400000,FUN_014597,GBF1,GBF1,Golgi-specific brefeldin A-resistance guanine nucleotide exchange factor 1 (BFA-resistant GEF 1),Q92538,TISSUE SPECIFICITY: Ubiquitous.
+high_div,chr4,113400000,123400000,FUN_014598,,,,,
+high_div,chr4,113400000,123400000,FUN_014599,,,,,
+high_div,chr4,113400000,123400000,FUN_014600,,,,,
+high_div,chr4,113400000,123400000,FUN_014601,VMN2R26,,Vomeronasal type-2 receptor 26 (Putative pheromone receptor V2R1b) (Vomeronasal type-2 receptor 1b),Q6TAC4,TISSUE SPECIFICITY: Expressed in the basal epithelium of the vomeronasal organ. Located to vomeronasal sensory neurons that project their axons to six to ten glomeruli that reside in globally conserved areas within the caudal accessory olfactory bulb (AOB). {ECO:0000269|PubMed:12354396}.
+high_div,chr4,113400000,123400000,FUN_014602,,,,,
+high_div,chr4,113400000,123400000,FUN_014603,,,,,
+high_div,chr4,113400000,123400000,FUN_014604,,,,,
+high_div,chr4,113400000,123400000,FUN_014605,ZNF3,,Zinc finger protein 3 (Zinc finger protein HF.12) (Zinc finger protein HZF3.1) (Zinc finger protein KOX25),P17036,
+high_div,chr4,113400000,123400000,FUN_014606,,,,,
+high_div,chr4,113400000,123400000,FUN_014607,E2F7,E2F7,Transcription factor E2F7 (E2F-7),D4A4D7,
+high_div,chr4,113400000,123400000,FUN_014608,E2F7,E2F7,Transcription factor E2F7 (E2F-7),D4A4D7,
+high_div,chr4,113400000,123400000,FUN_014609,,,,,
+high_div,chr4,113400000,123400000,FUN_014610,,,,,
+high_div,chr4,113400000,123400000,FUN_014611,,Vmn2r65,,,
+high_div,chr4,113400000,123400000,FUN_014612,VMN2R26,Vmn2r65,Vomeronasal type-2 receptor 26 (Putative pheromone receptor V2R1b) (Vomeronasal type-2 receptor 1b),Q6TAC4,TISSUE SPECIFICITY: Expressed in the basal epithelium of the vomeronasal organ. Located to vomeronasal sensory neurons that project their axons to six to ten glomeruli that reside in globally conserved areas within the caudal accessory olfactory bulb (AOB). {ECO:0000269|PubMed:12354396}.
+high_div,chr4,113400000,123400000,FUN_014613,PCLO,PCLO,Protein piccolo (Aczonin) (Multidomain presynaptic cytomatrix protein),Q9JKS6,TISSUE SPECIFICITY: Expressed in brain (at protein level). {ECO:0000269|PubMed:12473661}.
+high_div,chr4,113400000,123400000,FUN_30895,PCLO,,Protein piccolo (Aczonin),Q9PU36,
+high_div,chr4,113400000,123400000,FUN_30896,PCLO,,Protein piccolo (Aczonin),Q9PU36,
+high_div,chr4,113400000,123400000,FUN_014614,SEMA3E,SEMA3E,Semaphorin-3E (Collapsin-5) (COLL-5),O42237,"TISSUE SPECIFICITY: Collapsin-1, -2, -3, and -5 bind to overlapping but distinct axon tracts."
+high_div,chr4,113400000,123400000,FUN_014615,,,,,
+high_div,chr4,113400000,123400000,FUN_014616,,,,,
+high_div,chr4,113400000,123400000,FUN_014617,,,,,
+high_div,chr4,113400000,123400000,FUN_014618,SEMA3A,SEMA3A,Semaphorin-3A (Collapsin-1) (COLL-1),Q90607,"TISSUE SPECIFICITY: Expressed at relatively high levels in brain and muscle, moderate levels in lung, bursa, and heart and virtually absent in liver. Collapsin-1, -2, -3, and -5 bind to overlapping but distinct axon tracts."
+high_div,chr4,113400000,123400000,FUN_014619,,,,,
+high_div,chr4,113400000,123400000,FUN_014620,SEMA3D,SEMA3D,Semaphorin-3D (Collapsin-2) (COLL-2),Q90663,"TISSUE SPECIFICITY: Developing spinal cord and developing visual system. Collapsin-1, -2, -3, and -5 bind to overlapping but distinct axon tracts."
+high_div,chr4,113400000,123400000,FUN_014621,,,,,
+high_div,chr4,113400000,123400000,FUN_014622,,,,,
+high_div,chr4,113400000,123400000,FUN_014623,GRM3,GRM3,Metabotropic glutamate receptor 3 (mGluR3),Q1ZZH1,
+high_div,chr4,113400000,123400000,FUN_014624,,,,,
+high_div,chr4,113400000,123400000,FUN_014625,ELAPOR2,KIAA1324L,Endosome/lysosome-associated apoptosis and autophagy regulator family member 2 (Estrogen-induced gene 121-like protein),Q3UZV7,
+high_div,chr4,113400000,123400000,FUN_014626,DMTF1,DMTF1,Cyclin-D-binding Myb-like transcription factor 1 (hDMTF1) (Cyclin-D-interacting Myb-like protein 1) (hDMP1),Q9Y222,"TISSUE SPECIFICITY: Expressed at relatively low levels in colonic mucosa, ovary, peripheral leukocytes, prostate and small intestine, and at higher levels in spleen, testis and thymus. Expressed in multiple regions of the brain and CNS including amygdala, caudate, corpus callosum, hippocampus, substantia nigra and subthalamic nucleus. Isoform 1 is the predominant isoform in monocytes, macrophages and neutrophils, isoform 2 is most strongly expressed in peripheral blood leukocytes and quiescent CD34 positive cells, and isoform 3 is expressed at low levels in all hematopoietic cell types. Expression is frequently reduced in non-small-cell lung carcinomas (NSCLC) due to hemizygous gene deletion, strongly suggesting that this locus is haploinsufficient for tumor suppression. Loss of this locus frequently occurs in tumors which retain wild-type CDKN2A/ARF and p53/TP53 loci. Hemizygous gene deletion has also been observed in leukemic blasts from patients with abnormalities of the long arm of chromosome 7. {ECO:0000269|PubMed:10095122, ECO:0000269|PubMed:12917399, ECO:0000269|PubMed:17936562}."
+high_div,chr4,113400000,123400000,FUN_014627,TMEM243,TMEM243,Transmembrane protein 243,A0JNK6,
+high_div,chr4,113400000,123400000,FUN_30897,,,,,
+high_div,chr4,113400000,123400000,FUN_014628,,,,,
+high_div,chr4,113400000,123400000,FUN_014629,MEIG1,MEIG1,Meiosis expressed gene 1 protein homolog,Q32LI5,
+high_div,chr4,113400000,123400000,FUN_014630,DCLRE1C,DCLRE1C,Protein artemis (EC 3.1.-.-) (DNA cross-link repair 1C protein) (SNM1 homolog C) (chSNM1C) (SNM1-like protein),Q5QJC2,
+high_div,chr4,113400000,123400000,FUN_014631,HSPA14,HSPA14,Heat shock 70 kDa protein 14,E1C2P3,
+high_div,chr4,113400000,123400000,FUN_014632,CDNF,CDNF,Cerebral dopamine neurotrophic factor (ARMET-like protein 1) (Conserved dopamine neurotrophic factor),Q49AH0,"TISSUE SPECIFICITY: Widely expressed in neuronal and non-neuronal tissues. In the brain, highest levels in the optic nerve and corpus callosum. {ECO:0000269|PubMed:17611540}."
+high_div,chr4,113400000,123400000,FUN_014633,,,,,
+high_div,chr4,113400000,123400000,FUN_014634,,,,,
+high_div,chr4,113400000,123400000,FUN_014635,FAM107B,FAM107B,Protein FAM107B,Q9H098,
+high_div,chr4,113400000,123400000,FUN_014638,FRMD4A,FRMD4A,FERM domain-containing protein 4A,Q8BIE6,
+high_div,chr4,113400000,123400000,FUN_014636,,,,,
+high_div,chr4,113400000,123400000,FUN_014637,,,,,
+high_div,chr4,113400000,123400000,FUN_014639,PRPF18,PRPF18,Pre-mRNA-splicing factor 18 (PRP18 homolog) (hPRP18),Q99633,
+high_div,chr4,113400000,123400000,FUN_014640,BEND7,BEND7,BEN domain-containing protein 7,Q8N7W2,
+high_div,chr4,113400000,123400000,FUN_014641,SEPHS1,SEPHS1,"Selenide, water dikinase 1 (EC 2.7.9.3) (Selenium donor protein 1) (Selenophosphate synthase 1)",Q0VC82,
+high_div,chr4,113400000,123400000,FUN_014642,PHYH,,"Phytanoyl-CoA dioxygenase, peroxisomal (EC 1.14.11.18) (Phytanic acid oxidase) (Phytanoyl-CoA alpha-hydroxylase) (PhyH)",O14832,"TISSUE SPECIFICITY: Expressed in liver, kidney, and T-cells, but not in spleen, brain, heart, lung and skeletal muscle."
+high_div,chr4,113400000,123400000,FUN_014643,MCM10,MCM10,Protein MCM10 homolog (HsMCM10),Q7L590,
+high_div,chr4,113400000,123400000,FUN_014644,OPTN,OPTN,Optineurin (Ag9-C5) (FIP-2),Q90Z16,"TISSUE SPECIFICITY: Expressed in erythrocytes, skeletal muscle, heart, spleen and brain. Weakly expressed in lung and liver (at protein level). {ECO:0000269|PubMed:11777338, ECO:0000269|PubMed:12169269}."
+high_div,chr4,113400000,123400000,FUN_014645,CCDC3,CCDC3,Coiled-coil domain-containing protein 3 (Fat/vessel-derived secretory protein) (Favine),Q9D6Y1,TISSUE SPECIFICITY: Expressed in aorta and adipose tissue. Enriched in mature adipocytes. Over-expressed in adipose tissue from either hormonally-induced or nutritionally-regulated obese mice models. {ECO:0000269|PubMed:20043878}.
+high_div,chr4,113400000,123400000,FUN_014646,PRICKLE1,PRICKLE1,Prickle-like protein 1 (REST/NRSF-interacting LIM domain protein 1),Q96MT3,"TISSUE SPECIFICITY: Expressed at highest levels in placenta and at lower levels in lung, liver, kidney and pancreas. Expressed in thalamus, hippocampus, cerebral cortex, and cerebellum (in neurons rather than glia). {ECO:0000269|PubMed:12525887, ECO:0000269|PubMed:14645515, ECO:0000269|PubMed:18976727}."
+high_div,chr4,113400000,123400000,FUN_014647,PRICKLE1,,Prickle-like protein 1 (REST/NRSF-interacting LIM domain protein 1),Q71QF9,
+high_div,chr4,113400000,123400000,FUN_014648,PPHLN1,PPHLN1,Periphilin-1 (CDC7 expression repressor) (CR) (Gastric cancer antigen Ga50),Q8NEY8,TISSUE SPECIFICITY: Ubiquitous. {ECO:0000269|PubMed:12853457}.
+high_div,chr4,113400000,123400000,FUN_014537,,,,,
+high_div,chr4,113400000,123400000,FUN_014538,,,,,
+high_div,chr4,113400000,123400000,FUN_014539,,,,,
+high_div,chr4,113400000,123400000,FUN_014540,,,,,
+high_div,chr4,113400000,123400000,FUN_014541,,,,,
+high_div,chr4,113400000,123400000,FUN_014542,,,,,
+high_div,chr4,113400000,123400000,FUN_014543,,,,,
+high_div,chr4,113400000,123400000,FUN_014544,,,,,
+high_div,chr4,113400000,123400000,FUN_014545,,,,,
+high_div,chr4,113400000,123400000,FUN_014546,,,,,
+high_div,chr4,113400000,123400000,FUN_014547,,,,,
+high_div,chr4,113400000,123400000,FUN_014548,CCSER2,CCSER2,Serine-rich coiled-coil domain-containing protein 2 (Coiled-coil serine-rich protein 2) (Protein GCAP14 homolog),Q9H7U1,
+high_div,chr4,113400000,123400000,FUN_014549,NDNF,,Protein NDNF (Neuron-derived neurotrophic factor),Q8TB73,TISSUE SPECIFICITY: Expressed in neurons along the gonadotropin-releasing hormone (GnRH) expressing neurons migratory route. {ECO:0000269|PubMed:31883645}.
+high_div,chr4,113400000,123400000,FUN_014550,,,,,
+high_div,chr4,113400000,123400000,FUN_014551,,,,,
+high_div,chr4,113400000,123400000,FUN_014552,BICC1,BICC1,Protein bicaudal C homolog 1 (Bic-C),Q9H694,
+high_div,chr4,113400000,123400000,FUN_30890,TY3B-I,,Transposon Ty3-I Gag-Pol polyprotein (Gag3-Pol3) (Transposon Ty3-2 TYA-TYB polyprotein) [Cleaved into: Capsid protein (CA) (p24); Spacer peptide p3; Nucleocapsid protein p11 (NC); Ty3 protease (PR) (EC 3.4.23.-) (p16); Spacer peptide J; Reverse transcriptase/ribonuclease H (RT) (RT-RH) (EC 2.7.7.49) (EC 2.7.7.7) (EC 3.1.26.4) (p55); Integrase p52 (IN); Integrase p49 (IN)],Q7LHG5,
+high_div,chr4,113400000,123400000,FUN_014553,,,,,
+high_div,chr4,113400000,123400000,FUN_014554,PHYHIPL,PHYHIPL,Phytanoyl-CoA hydroxylase-interacting protein-like,Q96FC7,
+high_div,chr4,113400000,123400000,FUN_014555,,,,,
+high_div,chr4,113400000,123400000,FUN_014556,FAM13C,FAM13C,Protein FAM13C,Q8NE31,
+high_div,chr4,113400000,123400000,FUN_014557,FAM13A,fam13c,Protein FAM13A,O94988,"TISSUE SPECIFICITY: Isoform 1 is widely expressed, with highest expression in skeletal muscle, thymus, brain and lung. Isoform 3 is less abundant than isoform 1 and predominantly expressed in kidney, pancreas, liver, lung and thymus. {ECO:0000269|PubMed:15234000}."
+high_div,chr4,113400000,123400000,FUN_014558,SLC16A9,SLC16A9,Monocarboxylate transporter 9 (MCT 9) (Solute carrier family 16 member 9),Q5R5M4,
+high_div,chr4,113400000,123400000,FUN_014559,CCDC6,CCDC6,Coiled-coil domain-containing protein 6,D3YZP9,
+high_div,chr4,113400000,123400000,FUN_014560,ANK3,,Ankyrin-3 (ANK-3) (Ankyrin-G),G5E8K5,"TISSUE SPECIFICITY: Expressed in many epithelial tissues, muscles and axons. Expressed in kidney, brain, skin, lung, liver, intestine, pancreas, heart and testis (at protein level). In testis, expressed in Leydig cells, but very weakly or not at all in Sertoli cells or seminiferous tubules. Expressed in macrophages (at protein level). {ECO:0000269|PubMed:23903368, ECO:0000269|PubMed:7615634, ECO:0000269|PubMed:9060470}."
+high_div,chr4,113400000,123400000,FUN_014561,,,,,
+high_div,chr4,113400000,123400000,FUN_014563,,,,,
+high_div,chr4,113400000,123400000,FUN_014564,CDK1,CDK1,Cyclin-dependent kinase 1 (CDK1) (EC 2.7.11.22) (EC 2.7.11.23) (Cell division control protein 2 homolog) (Cell division protein kinase 1) (p34 protein kinase),P13863,
+high_div,chr4,113400000,123400000,FUN_014565,,,,,
+high_div,chr4,113400000,123400000,FUN_014566,RHOBTB1,RHOBTB1,Rho-related BTB domain-containing protein 1,O94844,"TISSUE SPECIFICITY: Ubiquitous, with highest levels in skeletal muscle, placenta, testis, stomach, and kidney, followed by uterus and adrenal gland. Expressed in a variety of fetal tissues. {ECO:0000269|PubMed:12426103}."
+high_div,chr4,113400000,123400000,FUN_014567,,,,,
+high_div,chr4,113400000,123400000,FUN_014568,TMEM26,TMEM26,Transmembrane protein 26,Q6ZUK4,
+high_div,chr4,113400000,123400000,FUN_014569,CABCOCO1,C10orf107,Ciliary-associated calcium-binding coiled-coil protein 1,Q8CDT7,TISSUE SPECIFICITY: Testis-specific (PubMed:26990073). Expressed in spermatocytes and round spermatids (at protein level) (PubMed:26990073). {ECO:0000269|PubMed:26990073}.
+high_div,chr4,113400000,123400000,FUN_014569,CABCOCO1,C10orf107,Ciliary-associated calcium-binding coiled-coil protein 1,Q8CDT7,TISSUE SPECIFICITY: Testis-specific (PubMed:26990073). Expressed in spermatocytes and round spermatids (at protein level) (PubMed:26990073). {ECO:0000269|PubMed:26990073}.
+high_div,chr4,113400000,123400000,FUN_014570,ARID5B,ARID5B,AT-rich interactive domain-containing protein 5B (ARID domain-containing protein 5B),Q5ZJ69,
+high_div,chr4,113400000,123400000,FUN_014571,,,,,
+high_div,chr4,113400000,123400000,FUN_014572,,,,,
+high_div,chr4,113400000,123400000,FUN_014573,CAMK2G,CAMK2G,Calcium/calmodulin-dependent protein kinase type II subunit gamma (CaM kinase II subunit gamma) (CaMK-II subunit gamma) (EC 2.7.11.17),Q923T9,
+high_div,chr4,113400000,123400000,FUN_30891,,,,,
+high_div,chr4,113400000,123400000,FUN_014574,NDST2,NDST2,Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 2 (EC 2.8.2.8) (Glucosaminyl N-deacetylase/N-sulfotransferase 2) (NDST-2) (N-heparan sulfate sulfotransferase 2) (N-HSST 2) [Includes: Heparan sulfate N-deacetylase 2 (EC 3.-.-.-); Heparan sulfate N-sulfotransferase 2 (EC 2.8.2.-)],P52849,
+high_div,chr4,113400000,123400000,FUN_014575,,,,,
+high_div,chr4,113400000,123400000,FUN_014576,ZSWIM8,ZSWIM8,Zinc finger SWIM domain-containing protein 8,Q3UHH1,
+high_div,chr4,113400000,123400000,FUN_014577,PRSS12,,Neurotrypsin (EC 3.4.21.-) (Brain-specific serine protease 3) (BSSP-3) (Motopsin) (Serine protease 12),O08762,"TISSUE SPECIFICITY: Most abundant in cerebral cortex, hippocampus and amygdala."
+high_div,chr4,113400000,123400000,FUN_014578,CHCHD1,CHCHD1,"Small ribosomal subunit protein mS37 (28S ribosomal protein S37, mitochondrial) (MRP-S37) (Coiled-coil-helix-coiled-coil-helix domain-containing protein 1)",Q9CQA6,
+high_div,chr4,113400000,123400000,FUN_014579,FUT11,FUT11,"Alpha-(1,3)-fucosyltransferase 11 (EC 2.4.1.-) (Fucosyltransferase XI) (Fuc-TXI) (FucT-XI) (Galactoside 3-L-fucosyltransferase 11) (Fucosyltransferase 11)",Q8AWC7,
+high_div,chr4,113400000,123400000,FUN_014580,SEC24C,SEC24C,Protein transport protein Sec24C (SEC24-related protein C),P53992,TISSUE SPECIFICITY: Ubiquitous. {ECO:0000269|PubMed:10329445}.
+high_div,chr4,113400000,123400000,FUN_014581,SYNPO2L,SYNPO2L,Synaptopodin 2-like protein,Q8BWB1,
+high_div,chr4,113400000,123400000,FUN_014582,MYOZ1,MYOZ1,Myozenin-1 (Calsarcin-2),Q8SQ24,
+high_div,chr4,113400000,123400000,FUN_014583,,,,,
+high_div,chr4,113400000,123400000,FUN_014584,ANXA7,ANXA7,Annexin A7 (Annexin VII) (Annexin-7),Q4R5L5,
+high_div,chr4,113400000,123400000,FUN_014585,EIF3F,EIF3F,Eukaryotic translation initiation factor 3 subunit F (eIF3f) (Deubiquitinating enzyme eIF3f) (EC 3.4.19.12) (Eukaryotic translation initiation factor 3 subunit 5) (eIF-3-epsilon) (eIF3 p47),A5A6I3,
+high_div,chr4,113400000,123400000,FUN_014586,TM9SF3,TM9SF3,Transmembrane 9 superfamily member 3,Q9ET30,
+high_div,chr4,113400000,123400000,FUN_014587,PIK3AP1,PIK3AP1,Phosphoinositide 3-kinase adapter protein 1 (B-cell adapter for phosphoinositide 3-kinase) (B-cell phosphoinositide 3-kinase adapter protein 1),Q9DDT2,
+high_div,chr4,113400000,123400000,FUN_014588,NOLC1,NOLC1,Nucleolar and coiled-body phosphoprotein 1 (140 kDa nucleolar phosphoprotein) (Nopp140) (Hepatitis C virus NS5A-transactivated protein 13) (HCV NS5A-transactivated protein 13) (Nucleolar 130 kDa protein) (Nucleolar phosphoprotein p130),Q14978,
+high_div,chr4,113400000,123400000,FUN_30892,,,LINE-1 retrotransposable element ORF2 protein (ORF2p) [Includes: Reverse transcriptase (EC 2.7.7.49); Endonuclease (EC 3.1.21.-)],O00370,
+high_div,chr4,113400000,123400000,FUN_014589,PITX3,PITX3,Pituitary homeobox 3 (Homeobox protein PITX3) (XPitx-3) (xPitx3) (Paired-like homeodomain transcription factor 3),Q9I8K3,
+high_div,chr4,113400000,123400000,FUN_014590,,,,,
+high_div,chr4,113400000,123400000,FUN_30893,GBF1,GBF1,Golgi-specific brefeldin A-resistance guanine nucleotide exchange factor 1 (BFA-resistant GEF 1),Q92538,TISSUE SPECIFICITY: Ubiquitous.
+high_div,chr4,113400000,123400000,FUN_014592,GBF1,GBF1,Golgi-specific brefeldin A-resistance guanine nucleotide exchange factor 1 (BFA-resistant GEF 1),Q9R1D7,
+high_div,chr4,113400000,123400000,FUN_014591,,,,,
+high_div,chr4,113400000,123400000,FUN_30894,,,,,
+high_div,chr4,113400000,123400000,FUN_014597,GBF1,GBF1,Golgi-specific brefeldin A-resistance guanine nucleotide exchange factor 1 (BFA-resistant GEF 1),Q92538,TISSUE SPECIFICITY: Ubiquitous.
+high_div,chr4,113400000,123400000,FUN_014598,,,,,
+high_div,chr4,113400000,123400000,FUN_014599,,,,,
+high_div,chr4,113400000,123400000,FUN_014600,,,,,
+high_div,chr4,113400000,123400000,FUN_014601,VMN2R26,,Vomeronasal type-2 receptor 26 (Putative pheromone receptor V2R1b) (Vomeronasal type-2 receptor 1b),Q6TAC4,TISSUE SPECIFICITY: Expressed in the basal epithelium of the vomeronasal organ. Located to vomeronasal sensory neurons that project their axons to six to ten glomeruli that reside in globally conserved areas within the caudal accessory olfactory bulb (AOB). {ECO:0000269|PubMed:12354396}.
+high_div,chr4,113400000,123400000,FUN_014602,,,,,
+high_div,chr4,113400000,123400000,FUN_014603,,,,,
+high_div,chr4,113400000,123400000,FUN_014604,,,,,
+high_div,chr4,113400000,123400000,FUN_014605,ZNF3,,Zinc finger protein 3 (Zinc finger protein HF.12) (Zinc finger protein HZF3.1) (Zinc finger protein KOX25),P17036,
+high_div,chr4,113400000,123400000,FUN_014606,,,,,
+high_div,chr4,113400000,123400000,FUN_014607,E2F7,E2F7,Transcription factor E2F7 (E2F-7),D4A4D7,
+high_div,chr4,113400000,123400000,FUN_014608,E2F7,E2F7,Transcription factor E2F7 (E2F-7),D4A4D7,
+high_div,chr4,113400000,123400000,FUN_014609,,,,,
+high_div,chr4,113400000,123400000,FUN_014610,,,,,
+high_div,chr4,113400000,123400000,FUN_014611,,Vmn2r65,,,
+high_div,chr4,113400000,123400000,FUN_014612,VMN2R26,Vmn2r65,Vomeronasal type-2 receptor 26 (Putative pheromone receptor V2R1b) (Vomeronasal type-2 receptor 1b),Q6TAC4,TISSUE SPECIFICITY: Expressed in the basal epithelium of the vomeronasal organ. Located to vomeronasal sensory neurons that project their axons to six to ten glomeruli that reside in globally conserved areas within the caudal accessory olfactory bulb (AOB). {ECO:0000269|PubMed:12354396}.
+high_div,chr4,113400000,123400000,FUN_014613,PCLO,PCLO,Protein piccolo (Aczonin) (Multidomain presynaptic cytomatrix protein),Q9JKS6,TISSUE SPECIFICITY: Expressed in brain (at protein level). {ECO:0000269|PubMed:12473661}.
+high_div,chr4,113400000,123400000,FUN_30895,PCLO,,Protein piccolo (Aczonin),Q9PU36,
+high_div,chr4,113400000,123400000,FUN_30896,PCLO,,Protein piccolo (Aczonin),Q9PU36,
+high_div,chr4,113400000,123400000,FUN_014614,SEMA3E,SEMA3E,Semaphorin-3E (Collapsin-5) (COLL-5),O42237,"TISSUE SPECIFICITY: Collapsin-1, -2, -3, and -5 bind to overlapping but distinct axon tracts."
+high_div,chr4,113400000,123400000,FUN_014615,,,,,
+high_div,chr4,113400000,123400000,FUN_014616,,,,,
+high_div,chr4,113400000,123400000,FUN_014617,,,,,
+high_div,chr4,113400000,123400000,FUN_014618,SEMA3A,SEMA3A,Semaphorin-3A (Collapsin-1) (COLL-1),Q90607,"TISSUE SPECIFICITY: Expressed at relatively high levels in brain and muscle, moderate levels in lung, bursa, and heart and virtually absent in liver. Collapsin-1, -2, -3, and -5 bind to overlapping but distinct axon tracts."
+high_div,chr4,113400000,123400000,FUN_014619,,,,,
+high_div,chr4,113400000,123400000,FUN_014620,SEMA3D,SEMA3D,Semaphorin-3D (Collapsin-2) (COLL-2),Q90663,"TISSUE SPECIFICITY: Developing spinal cord and developing visual system. Collapsin-1, -2, -3, and -5 bind to overlapping but distinct axon tracts."
+high_div,chr4,113400000,123400000,FUN_014621,,,,,
+high_div,chr4,113400000,123400000,FUN_014622,,,,,
+high_div,chr4,113400000,123400000,FUN_014623,GRM3,GRM3,Metabotropic glutamate receptor 3 (mGluR3),Q1ZZH1,
+high_div,chr4,113400000,123400000,FUN_014624,,,,,
+high_div,chr4,113400000,123400000,FUN_014625,ELAPOR2,KIAA1324L,Endosome/lysosome-associated apoptosis and autophagy regulator family member 2 (Estrogen-induced gene 121-like protein),Q3UZV7,
+high_div,chr4,113400000,123400000,FUN_014626,DMTF1,DMTF1,Cyclin-D-binding Myb-like transcription factor 1 (hDMTF1) (Cyclin-D-interacting Myb-like protein 1) (hDMP1),Q9Y222,"TISSUE SPECIFICITY: Expressed at relatively low levels in colonic mucosa, ovary, peripheral leukocytes, prostate and small intestine, and at higher levels in spleen, testis and thymus. Expressed in multiple regions of the brain and CNS including amygdala, caudate, corpus callosum, hippocampus, substantia nigra and subthalamic nucleus. Isoform 1 is the predominant isoform in monocytes, macrophages and neutrophils, isoform 2 is most strongly expressed in peripheral blood leukocytes and quiescent CD34 positive cells, and isoform 3 is expressed at low levels in all hematopoietic cell types. Expression is frequently reduced in non-small-cell lung carcinomas (NSCLC) due to hemizygous gene deletion, strongly suggesting that this locus is haploinsufficient for tumor suppression. Loss of this locus frequently occurs in tumors which retain wild-type CDKN2A/ARF and p53/TP53 loci. Hemizygous gene deletion has also been observed in leukemic blasts from patients with abnormalities of the long arm of chromosome 7. {ECO:0000269|PubMed:10095122, ECO:0000269|PubMed:12917399, ECO:0000269|PubMed:17936562}."
+high_div,chr4,113400000,123400000,FUN_014627,TMEM243,TMEM243,Transmembrane protein 243,A0JNK6,
+high_div,chr4,113400000,123400000,FUN_30897,,,,,
+high_div,chr4,113400000,123400000,FUN_014628,,,,,
+high_div,chr4,113400000,123400000,FUN_014629,MEIG1,MEIG1,Meiosis expressed gene 1 protein homolog,Q32LI5,
+high_div,chr4,113400000,123400000,FUN_014630,DCLRE1C,DCLRE1C,Protein artemis (EC 3.1.-.-) (DNA cross-link repair 1C protein) (SNM1 homolog C) (chSNM1C) (SNM1-like protein),Q5QJC2,
+high_div,chr4,113400000,123400000,FUN_014631,HSPA14,HSPA14,Heat shock 70 kDa protein 14,E1C2P3,
+high_div,chr4,113400000,123400000,FUN_014632,CDNF,CDNF,Cerebral dopamine neurotrophic factor (ARMET-like protein 1) (Conserved dopamine neurotrophic factor),Q49AH0,"TISSUE SPECIFICITY: Widely expressed in neuronal and non-neuronal tissues. In the brain, highest levels in the optic nerve and corpus callosum. {ECO:0000269|PubMed:17611540}."
+high_div,chr4,113400000,123400000,FUN_014633,,,,,
+high_div,chr4,113400000,123400000,FUN_014634,,,,,
+high_div,chr4,113400000,123400000,FUN_014635,FAM107B,FAM107B,Protein FAM107B,Q9H098,
+high_div,chr4,113400000,123400000,FUN_014638,FRMD4A,FRMD4A,FERM domain-containing protein 4A,Q8BIE6,
+high_div,chr4,113400000,123400000,FUN_014636,,,,,
+high_div,chr4,113400000,123400000,FUN_014637,,,,,
+high_div,chr4,113400000,123400000,FUN_014639,PRPF18,PRPF18,Pre-mRNA-splicing factor 18 (PRP18 homolog) (hPRP18),Q99633,
+high_div,chr4,113400000,123400000,FUN_014640,BEND7,BEND7,BEN domain-containing protein 7,Q8N7W2,
+high_div,chr4,113400000,123400000,FUN_014641,SEPHS1,SEPHS1,"Selenide, water dikinase 1 (EC 2.7.9.3) (Selenium donor protein 1) (Selenophosphate synthase 1)",Q0VC82,
+high_div,chr4,113400000,123400000,FUN_014642,PHYH,,"Phytanoyl-CoA dioxygenase, peroxisomal (EC 1.14.11.18) (Phytanic acid oxidase) (Phytanoyl-CoA alpha-hydroxylase) (PhyH)",O14832,"TISSUE SPECIFICITY: Expressed in liver, kidney, and T-cells, but not in spleen, brain, heart, lung and skeletal muscle."
+high_div,chr4,113400000,123400000,FUN_014643,MCM10,MCM10,Protein MCM10 homolog (HsMCM10),Q7L590,
+high_div,chr4,113400000,123400000,FUN_014644,OPTN,OPTN,Optineurin (Ag9-C5) (FIP-2),Q90Z16,"TISSUE SPECIFICITY: Expressed in erythrocytes, skeletal muscle, heart, spleen and brain. Weakly expressed in lung and liver (at protein level). {ECO:0000269|PubMed:11777338, ECO:0000269|PubMed:12169269}."
+high_div,chr4,113400000,123400000,FUN_014645,CCDC3,CCDC3,Coiled-coil domain-containing protein 3 (Fat/vessel-derived secretory protein) (Favine),Q9D6Y1,TISSUE SPECIFICITY: Expressed in aorta and adipose tissue. Enriched in mature adipocytes. Over-expressed in adipose tissue from either hormonally-induced or nutritionally-regulated obese mice models. {ECO:0000269|PubMed:20043878}.
+high_div,chr4,113400000,123400000,FUN_014646,PRICKLE1,PRICKLE1,Prickle-like protein 1 (REST/NRSF-interacting LIM domain protein 1),Q96MT3,"TISSUE SPECIFICITY: Expressed at highest levels in placenta and at lower levels in lung, liver, kidney and pancreas. Expressed in thalamus, hippocampus, cerebral cortex, and cerebellum (in neurons rather than glia). {ECO:0000269|PubMed:12525887, ECO:0000269|PubMed:14645515, ECO:0000269|PubMed:18976727}."
+high_div,chr4,113400000,123400000,FUN_014647,PRICKLE1,,Prickle-like protein 1 (REST/NRSF-interacting LIM domain protein 1),Q71QF9,
+high_div,chr4,113400000,123400000,FUN_014648,PPHLN1,PPHLN1,Periphilin-1 (CDC7 expression repressor) (CR) (Gastric cancer antigen Ga50),Q8NEY8,TISSUE SPECIFICITY: Ubiquitous. {ECO:0000269|PubMed:12853457}.
+high_div,chr5,61400000,73400000,FUN_016572,,,,,
+high_div,chr5,61400000,73400000,FUN_016573,,CXorf58,Uncharacterized protein CXorf58 homolog,A0A5F8MPE6,
+high_div,chr5,61400000,73400000,FUN_016574,,,,,
+high_div,chr5,61400000,73400000,FUN_016575,EIF2S3,EIF2S3,Eukaryotic translation initiation factor 2 subunit 3 (EC 3.6.5.3) (Eukaryotic translation initiation factor 2 subunit gamma) (eIF-2-gamma),Q5ZMS3,
+high_div,chr5,61400000,73400000,FUN_016576,,,,,
+high_div,chr5,61400000,73400000,FUN_016577,ZFX,ZFX,Zinc finger X-chromosomal protein,O62836,
+high_div,chr5,61400000,73400000,FUN_016578,TMPO,,"Lamina-associated polypeptide 2, isoform alpha (Thymopoietin isoform alpha) (TP alpha) (Thymopoietin-related peptide isoform alpha) (TPRP isoform alpha) [Cleaved into: Thymopoietin (TP) (Splenin); Thymopentin (TP5)]",P42166,TISSUE SPECIFICITY: Expressed in many tissues. Most abundant in adult thymus and fetal liver.
+high_div,chr5,61400000,73400000,FUN_016579,PDK3,PDK3,"[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 3, mitochondrial (EC 2.7.11.2) (Pyruvate dehydrogenase kinase isoform 3)",Q922H2,
+high_div,chr5,61400000,73400000,FUN_016580,,,,,
+high_div,chr5,61400000,73400000,FUN_016581,PCYT1B,PCYT1B,Choline-phosphate cytidylyltransferase B (EC 2.7.7.15) (CCT-beta) (CTP:phosphocholine cytidylyltransferase B) (CCT B) (CT B) (Phosphorylcholine transferase B),Q9QZC4,
+high_div,chr5,61400000,73400000,FUN_30959,POLA1,POLA1,DNA polymerase alpha catalytic subunit (EC 2.7.7.7) (DNA polymerase alpha catalytic subunit p180),P09884,
+high_div,chr5,61400000,73400000,FUN_016584,POLA1,POLA1,DNA polymerase alpha catalytic subunit (EC 2.7.7.7) (DNA polymerase alpha catalytic subunit p180),P09884,
+high_div,chr5,61400000,73400000,FUN_016586,ARX,ARX,Aristaless-related homeobox protein (ARX),O42115,TISSUE SPECIFICITY: Expressed in brain.
+high_div,chr5,61400000,73400000,FUN_016587,,,,,
+high_div,chr5,61400000,73400000,FUN_016588,,,,,
+high_div,chr5,61400000,73400000,FUN_016589,,,,,
+high_div,chr5,61400000,73400000,FUN_016590,,,,,
+high_div,chr5,61400000,73400000,FUN_016591,,,,,
+high_div,chr5,61400000,73400000,FUN_016592,,,,,
+high_div,chr5,61400000,73400000,FUN_016593,,,,,
+high_div,chr5,61400000,73400000,FUN_016594,,,,,
+high_div,chr5,61400000,73400000,FUN_016595,,,,,
+high_div,chr5,61400000,73400000,FUN_016596,,,,,
+high_div,chr5,61400000,73400000,FUN_016597,,,,,
+high_div,chr5,61400000,73400000,FUN_016598,IL1RAPL1,IL1RAPL1,Interleukin-1 receptor accessory protein-like 1 (IL-1-RAPL-1) (IL-1RAPL-1) (IL1RAPL-1) (EC 3.2.2.6) (X-linked interleukin-1 receptor accessory protein-like 1),Q7YQL9,
+high_div,chr5,61400000,73400000,FUN_016599,NR0B1,NR0B1,Nuclear receptor subfamily 0 group B member 1 (Nuclear receptor DAX-1),P79386,
+high_div,chr5,61400000,73400000,FUN_016600,,,,,
+high_div,chr5,61400000,73400000,FUN_016601,TASL,CXorf21,TLR adapter interacting with SLC15A4 on the lysosome,Q9HAI6,"TISSUE SPECIFICITY: Highly expressed in immune cell types such as B-cells, neutrophils, dendritic cells and monocytes, the expression levels are two-three-fold higher in female cells compared to male cells (at protein level) (PubMed:31092820, PubMed:31001245). Expressed at low levels in T-cells and NK cells (PubMed:31001245). {ECO:0000269|PubMed:31001245, ECO:0000269|PubMed:31092820}."
+high_div,chr5,61400000,73400000,FUN_016602,GK,GK,Glycerol kinase (GK) (Glycerokinase) (EC 2.7.1.30) (ATP-stimulated glucocorticoid-receptor translocation promoter) (ASTP) (ATP:glycerol 3-phosphotransferase),Q63060,
+high_div,chr5,61400000,73400000,FUN_016603,,,,,
+high_div,chr5,61400000,73400000,FUN_016604,TAB3,TAB3,TGF-beta-activated kinase 1 and MAP3K7-binding protein 3 (Mitogen-activated protein kinase kinase kinase 7-interacting protein 3) (NF-kappa-B-activating protein 1) (TAK1-binding protein 3) (TAB-3) (TGF-beta-activated kinase 1-binding protein 3),Q8N5C8,TISSUE SPECIFICITY: Widely expressed. Constitutively overexpressed in certain tumor tissues. {ECO:0000269|PubMed:14670075}.; TISSUE SPECIFICITY: [Isoform 1]: Major transcript. {ECO:0000269|PubMed:14766965}.; TISSUE SPECIFICITY: [Isoform 2]: Minor transcript. {ECO:0000269|PubMed:14766965}.
+high_div,chr5,61400000,73400000,FUN_016605,,,,,
+high_div,chr5,61400000,73400000,FUN_30960,DMD,DMD,Dystrophin,P11533,
+high_div,chr5,61400000,73400000,FUN_016606,,,,,
+high_div,chr5,61400000,73400000,FUN_016607,,,,,
+high_div,chr5,61400000,73400000,FUN_016608,DMD,DMD,Dystrophin,Q5GN48,"TISSUE SPECIFICITY: In the retina, expressed in the outer plexiform layer (OPL) and around the blood vessels. Also observed at the vitreal border of the retina corresponding to the inner limiting membrane (ILM). Presynaptically localized in cone pedicles and postsynaptically in bipolar cells (at protein level). {ECO:0000269|PubMed:15941659}."
+high_div,chr5,61400000,73400000,FUN_016609,DMD,DMD,Dystrophin,P11530,TISSUE SPECIFICITY: Strongly expressed in skeletal muscle and weak expression observed in newborn brain which increases in adult brain. {ECO:0000269|PubMed:3340214}.
+high_div,chr5,61400000,73400000,FUN_016610,DMD,DMD,Dystrophin,Q5GN48,"TISSUE SPECIFICITY: In the retina, expressed in the outer plexiform layer (OPL) and around the blood vessels. Also observed at the vitreal border of the retina corresponding to the inner limiting membrane (ILM). Presynaptically localized in cone pedicles and postsynaptically in bipolar cells (at protein level). {ECO:0000269|PubMed:15941659}."
+high_div,chr5,61400000,73400000,FUN_016611,S100A10,S100A10,Protein S100-A10 (Calpactin I light chain) (Calpactin-1 light chain) (Cellular ligand of annexin II) (S100 calcium-binding protein A10) (p10 protein) (p11),P08207,
+high_div,chr5,61400000,73400000,FUN_016612,,,,,
+high_div,chr5,61400000,73400000,FUN_016613,DMD,DMD,Dystrophin,P11533,
+high_div,chr5,61400000,73400000,FUN_016614,DMD,DMD,Dystrophin,P11533,
+high_div,chr5,61400000,73400000,FUN_016615,,,,,
+high_div,chr5,61400000,73400000,FUN_016617,,,,,
+high_div,chr5,61400000,73400000,FUN_016619,,,,,
+high_div,chr5,61400000,73400000,FUN_016620,,,,,
+high_div,chr5,61400000,73400000,FUN_016621,DMD,DMD,Dystrophin,P11533,
+high_div,chr5,61400000,73400000,FUN_016622,DMD,DMD,Dystrophin,P11533,
+high_div,chr5,61400000,73400000,FUN_016623,,,,,
+high_div,chr5,61400000,73400000,FUN_016624,,,,,
+high_div,chr5,61400000,73400000,FUN_016625,TMEM47,TMEM47,Transmembrane protein 47 (Transmembrane 4 superfamily member 10),Q9JJG6,TISSUE SPECIFICITY: Expressed in podocytes (at protein level). {ECO:0000269|PubMed:21881001}.
+high_div,chr5,61400000,73400000,FUN_016626,E2F7,E2F7,Transcription factor E2F7 (E2F-7),D4A4D7,
+high_div,chr5,61400000,73400000,FUN_016627,,,,,
+high_div,chr5,61400000,73400000,FUN_016628,,,,,
+high_div,chr5,61400000,73400000,FUN_016629,PRRG1,,Transmembrane gamma-carboxyglutamic acid protein 1 (Proline-rich gamma-carboxyglutamic acid protein 1) (Proline-rich Gla protein 1),A7Z070,
+high_div,chr5,61400000,73400000,FUN_016630,CFAP47,CHDC2,Cilia- and flagella-associated protein 47,Q6ZTR5,TISSUE SPECIFICITY: Highly expressed in spermatzoa (at protein level). {ECO:0000269|PubMed:33472045}.
+high_div,chr5,61400000,73400000,FUN_016631,CFAP47,,Cilia- and flagella-associated protein 47,Q6ZTR5,TISSUE SPECIFICITY: Highly expressed in spermatzoa (at protein level). {ECO:0000269|PubMed:33472045}.
+high_div,chr5,61400000,73400000,FUN_016632,CFAP47,CHDC2,Cilia- and flagella-associated protein 47,Q6ZTR5,TISSUE SPECIFICITY: Highly expressed in spermatzoa (at protein level). {ECO:0000269|PubMed:33472045}.
+high_div,chr5,61400000,73400000,FUN_016633,CFAP47,CHDC2,Cilia and flagella-associated protein 47,A0A0G2JEB6,TISSUE SPECIFICITY: Highly expressed in spermatzoa (at protein level). {ECO:0000269|PubMed:33472045}.
+high_div,chr5,61400000,73400000,FUN_30961,CFAP47,CHDC2,Cilia- and flagella-associated protein 47,Q6ZTR5,TISSUE SPECIFICITY: Highly expressed in spermatzoa (at protein level). {ECO:0000269|PubMed:33472045}.
+high_div,chr5,61400000,73400000,FUN_016635,,,,,
+high_div,chr5,61400000,73400000,FUN_016636,,,,,
+high_div,chr5,61400000,73400000,FUN_016637,PRRG1,PRRG1,Transmembrane gamma-carboxyglutamic acid protein 1 (Proline-rich gamma-carboxyglutamic acid protein 1) (Proline-rich Gla protein 1),A7Z070,
+high_div,chr5,61400000,73400000,FUN_016638,XK,XK,Endoplasmic reticulum membrane adapter protein XK (Membrane transport protein XK) (XK homolog) (XK-related protein 1),Q9QXY7,
+high_div,chr5,61400000,73400000,FUN_016639,,,,,
+high_div,chr5,61400000,73400000,FUN_016640,CYBB,CYBB,Cytochrome b-245 heavy chain (EC 1.-.-.-) (CGD91-phox) (Cytochrome b(558) subunit beta) (Cytochrome b558 subunit beta) (Heme-binding membrane glycoprotein gp91phox) (Neutrophil cytochrome b 91 kDa polypeptide) (gp91-1) (gp91-phox) (p22 phagocyte B-cytochrome),O46522,
+high_div,chr5,61400000,73400000,FUN_016641,DYNLT3,DYNLT3,Dynein light chain Tctex-type 3,Q5NVF5,
+high_div,chr5,61400000,73400000,FUN_016642,SYTL5,SYTL5,Synaptotagmin-like protein 5,Q812E4,
+high_div,chr5,61400000,73400000,FUN_30962,,,,,
+high_div,chr5,61400000,73400000,FUN_016644,SRPX,SRPX,Sushi repeat-containing protein SRPX,P78539,"TISSUE SPECIFICITY: Detected in fibroblasts (at protein level) (PubMed:36213313). Retina and heart; less in placenta, pancreas, lung, liver, skeletal muscle, kidney and brain. {ECO:0000269|PubMed:36213313}."
+high_div,chr5,61400000,73400000,FUN_016645,,,,,
+high_div,chr5,61400000,73400000,FUN_016646,RPGR,RPGR,X-linked retinitis pigmentosa GTPase regulator,Q9N1T2,"TISSUE SPECIFICITY: Isoform 1 is expressed exclusively in testis. Isoforms 2, 3 and 4 are widely expressed. {ECO:0000269|PubMed:10699176}."
+high_div,chr5,61400000,73400000,FUN_30963,,,,,
+high_div,chr5,61400000,73400000,FUN_016647,,,,,
+high_div,chr5,61400000,73400000,FUN_016648,OTC,OTC,"Ornithine transcarbamylase, mitochondrial (OTCase) (EC 2.1.3.3) (Ornithine carbamoyltransferase, mitochondrial)",P00480,TISSUE SPECIFICITY: Mainly expressed in liver and intestinal mucosa.
+high_div,chr5,61400000,73400000,FUN_016649,OTC,OTC,"Ornithine transcarbamylase, mitochondrial (OTCase) (EC 2.1.3.3) (Ornithine carbamoyltransferase, mitochondrial)",Q9YHY9,"TISSUE SPECIFICITY: Expressed in kidney, brain, heart, liver, pancreas, gizzard, small intestine and breast muscle. More abundant in mitochondrion-rich organs (heart, liver and brain) than in other organs. Activity is only detected in the kidney. {ECO:0000269|PubMed:3606562}."
+high_div,chr5,61400000,73400000,FUN_016650,TSPAN7,TSPAN7,Tetraspanin-7 (Tspan-7) (Cell surface glycoprotein A15) (PE31) (TALLA homolog) (Transmembrane 4 superfamily member 2) (CD antigen CD231),Q62283,
+high_div,chr5,61400000,73400000,FUN_016651,MID1IP1,MID1IP1,Mid1-interacting protein 1 (Gastrulation-specific G12-like protein) (Mid1-interacting G12-like protein) (Protein STRAIT11499 homolog) (Spot 14-related protein) (S14R) (Spot 14-R),Q9CQ20,"TISSUE SPECIFICITY: During embryonic development, expressed mainly in the neuroepithelial midline, urogenital apparatus and digits. Detected in adult white fat, liver, heart, brain and kidney. Expressed at very low levels in lactating mammary gland. {ECO:0000269|PubMed:15070402, ECO:0000269|PubMed:15890771, ECO:0000269|PubMed:20457939}."
+high_div,chr5,61400000,73400000,FUN_016652,,,,,
+high_div,chr5,61400000,73400000,FUN_016653,,,,,
+high_div,chr5,61400000,73400000,FUN_016654,,,,,
+high_div,chr5,61400000,73400000,FUN_016655,,,,,
+high_div,chr5,61400000,73400000,FUN_016656,,,,,
+high_div,chr5,61400000,73400000,FUN_016657,,,,,
+high_div,chr5,61400000,73400000,FUN_016658,,,,,
+high_div,chr5,61400000,73400000,FUN_016659,BCOR,BCOR,BCL-6 corepressor (BCoR),Q6W2J9,TISSUE SPECIFICITY: Ubiquitously expressed. {ECO:0000269|PubMed:10898795}.
+high_div,chr5,61400000,73400000,FUN_016660,,,,,
+high_div,chr5,61400000,73400000,FUN_016661,,,,,
+high_div,chr5,61400000,73400000,FUN_016662,,,,,
+high_div,chr5,61400000,73400000,FUN_016663,,,,,
+high_div,chr5,61400000,73400000,FUN_016664,ATP6AP2,ATP6AP2,Renin receptor (ATPase H(+)-transporting lysosomal accessory protein 2) (ATPase H(+)-transporting lysosomal-interacting protein 2) (Renin/prorenin receptor) [Cleaved into: Renin receptor extracellular fragment; Renin receptor cytoplasmic fragment],Q6AXS4,TISSUE SPECIFICITY: Expressed in the brain. {ECO:0000269|PubMed:32165585}.
+high_div,chr5,61400000,73400000,FUN_016665,MED14,MED14,Mediator of RNA polymerase II transcription subunit 14 (Activator-recruited cofactor 150 kDa component) (ARC150) (Cofactor required for Sp1 transcriptional activation subunit 2) (CRSP complex subunit 2) (Mediator complex subunit 14) (RGR1 homolog) (hRGR1) (Thyroid hormone receptor-associated protein complex 170 kDa component) (Trap170) (Transcriptional coactivator CRSP150) (Vitamin D3 receptor-interacting protein complex 150 kDa component) (DRIP150),O60244,TISSUE SPECIFICITY: Ubiquitous.
+high_div,chr5,61400000,73400000,FUN_016666,,,,,
+high_div,chr5,61400000,73400000,FUN_016667,,,,,
+high_div,chr5,61400000,73400000,FUN_016668,,,,,
+high_div,chr5,61400000,73400000,FUN_016669,,,,,
+high_div,chr5,61400000,73400000,FUN_016670,,,,,
+high_div,chr5,61400000,73400000,FUN_016671,,,,,
+high_div,chr5,61400000,73400000,FUN_016672,USP9X,USP9X,"Probable ubiquitin carboxyl-terminal hydrolase FAF-X (EC 3.4.19.12) (Deubiquitinating enzyme FAF-X) (Fat facets in mammals) (hFAM) (Fat facets protein-related, X-linked) (Ubiquitin thioesterase FAF-X) (Ubiquitin-specific protease 9, X chromosome) (Ubiquitin-specific-processing protease FAF-X)",Q93008,TISSUE SPECIFICITY: Widely expressed in embryonic and adult tissues. {ECO:0000269|PubMed:8922996}.
+high_div,chr5,61400000,73400000,FUN_016673,RPL8,RPL8,Large ribosomal subunit protein uL2 (60S ribosomal protein L8),P62919,
+high_div,chr5,61400000,73400000,FUN_016674,DDX3X,DDX3X,"ATP-dependent RNA helicase DDX3X (EC 3.6.4.13) (CAP-Rf) (DEAD box protein 3, X-chromosomal) (DEAD box, X isoform) (DBX) (Helicase-like protein 2) (HLP2)",O00571,"TISSUE SPECIFICITY: Widely expressed (PubMed:15294876). In testis, expressed in spermatids (PubMed:15294876). Expressed in epidermis and liver (at protein level) (PubMed:16818630, PubMed:16301996). {ECO:0000269|PubMed:15294876, ECO:0000269|PubMed:16301996, ECO:0000269|PubMed:16818630}."
+high_div,chr5,61400000,73400000,FUN_016675,NYX,NYX,Nyctalopin,Q9GZU5,"TISSUE SPECIFICITY: Expressed in kidney and retina. Also at low levels in brain, testis and muscle. Within the retina, expressed in the inner segment of photoreceptors, outer and inner nuclear layers and the ganglion cell layer. {ECO:0000269|PubMed:11062471, ECO:0000269|PubMed:11062472}."
+high_div,chr5,61400000,73400000,FUN_016678,CASK,CASK,Peripheral plasma membrane protein CASK (EC 2.7.11.1) (Calcium/calmodulin-dependent serine protein kinase),O70589,
+high_div,chr5,61400000,73400000,FUN_016680,,,,,
+high_div,chr5,61400000,73400000,FUN_016681,,,,,
+high_div,chr5,61400000,73400000,FUN_30964,GTF2IRD2,,General transcription factor II-I repeat domain-containing protein 2A (GTF2I repeat domain-containing protein 2A) (Transcription factor GTF2IRD2-alpha),Q86UP8,TISSUE SPECIFICITY: Ubiquitous. {ECO:0000269|PubMed:15100712}.
+high_div,chr5,61400000,73400000,FUN_016682,,,,,
+high_div,chr5,61400000,73400000,FUN_016683,,,,,
+high_div,chr5,61400000,73400000,FUN_016684,,,,,
+high_div,chr5,61400000,73400000,FUN_016685,MAOA,MAOA,Amine oxidase [flavin-containing] A (EC 1.4.3.21) (EC 1.4.3.4) (Monoamine oxidase type A) (MAO-A),Q5RE60,
+high_div,chr5,61400000,73400000,FUN_016686,,,,,
+high_div,chr5,61400000,73400000,FUN_016687,MAOB,MAOB,Amine oxidase [flavin-containing] B (EC 1.4.3.21) (EC 1.4.3.4) (Monoamine oxidase type B) (MAO-B),P27338,
+high_div,chr5,61400000,73400000,FUN_016688,NDP,NDP,Norrin (Norrie disease protein homolog),Q60HE4,
+high_div,chr5,61400000,73400000,FUN_30965,EFHC2,EFHC2,EF-hand domain-containing family member C2,Q32TG3,
+high_div,chr5,61400000,73400000,FUN_016689,,,,,
+high_div,chr5,61400000,73400000,FUN_016690,FUNDC1,FUNDC1,FUN14 domain-containing protein 1,E1BWM5,
+high_div,chr5,61400000,73400000,FUN_016572,,,,,
+high_div,chr5,61400000,73400000,FUN_016573,,CXorf58,Uncharacterized protein CXorf58 homolog,A0A5F8MPE6,
+high_div,chr5,61400000,73400000,FUN_016574,,,,,
+high_div,chr5,61400000,73400000,FUN_016575,EIF2S3,EIF2S3,Eukaryotic translation initiation factor 2 subunit 3 (EC 3.6.5.3) (Eukaryotic translation initiation factor 2 subunit gamma) (eIF-2-gamma),Q5ZMS3,
+high_div,chr5,61400000,73400000,FUN_016576,,,,,
+high_div,chr5,61400000,73400000,FUN_016577,ZFX,ZFX,Zinc finger X-chromosomal protein,O62836,
+high_div,chr5,61400000,73400000,FUN_016578,TMPO,,"Lamina-associated polypeptide 2, isoform alpha (Thymopoietin isoform alpha) (TP alpha) (Thymopoietin-related peptide isoform alpha) (TPRP isoform alpha) [Cleaved into: Thymopoietin (TP) (Splenin); Thymopentin (TP5)]",P42166,TISSUE SPECIFICITY: Expressed in many tissues. Most abundant in adult thymus and fetal liver.
+high_div,chr5,61400000,73400000,FUN_016579,PDK3,PDK3,"[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 3, mitochondrial (EC 2.7.11.2) (Pyruvate dehydrogenase kinase isoform 3)",Q922H2,
+high_div,chr5,61400000,73400000,FUN_016580,,,,,
+high_div,chr5,61400000,73400000,FUN_016581,PCYT1B,PCYT1B,Choline-phosphate cytidylyltransferase B (EC 2.7.7.15) (CCT-beta) (CTP:phosphocholine cytidylyltransferase B) (CCT B) (CT B) (Phosphorylcholine transferase B),Q9QZC4,
+high_div,chr5,61400000,73400000,FUN_30959,POLA1,POLA1,DNA polymerase alpha catalytic subunit (EC 2.7.7.7) (DNA polymerase alpha catalytic subunit p180),P09884,
+high_div,chr5,61400000,73400000,FUN_016584,POLA1,POLA1,DNA polymerase alpha catalytic subunit (EC 2.7.7.7) (DNA polymerase alpha catalytic subunit p180),P09884,
+high_div,chr5,61400000,73400000,FUN_016586,ARX,ARX,Aristaless-related homeobox protein (ARX),O42115,TISSUE SPECIFICITY: Expressed in brain.
+high_div,chr5,61400000,73400000,FUN_016587,,,,,
+high_div,chr5,61400000,73400000,FUN_016588,,,,,
+high_div,chr5,61400000,73400000,FUN_016589,,,,,
+high_div,chr5,61400000,73400000,FUN_016590,,,,,
+high_div,chr5,61400000,73400000,FUN_016591,,,,,
+high_div,chr5,61400000,73400000,FUN_016592,,,,,
+high_div,chr5,61400000,73400000,FUN_016593,,,,,
+high_div,chr5,61400000,73400000,FUN_016594,,,,,
+high_div,chr5,61400000,73400000,FUN_016595,,,,,
+high_div,chr5,61400000,73400000,FUN_016596,,,,,
+high_div,chr5,61400000,73400000,FUN_016597,,,,,
+high_div,chr5,61400000,73400000,FUN_016598,IL1RAPL1,IL1RAPL1,Interleukin-1 receptor accessory protein-like 1 (IL-1-RAPL-1) (IL-1RAPL-1) (IL1RAPL-1) (EC 3.2.2.6) (X-linked interleukin-1 receptor accessory protein-like 1),Q7YQL9,
+high_div,chr5,61400000,73400000,FUN_016599,NR0B1,NR0B1,Nuclear receptor subfamily 0 group B member 1 (Nuclear receptor DAX-1),P79386,
+high_div,chr5,61400000,73400000,FUN_016600,,,,,
+high_div,chr5,61400000,73400000,FUN_016601,TASL,CXorf21,TLR adapter interacting with SLC15A4 on the lysosome,Q9HAI6,"TISSUE SPECIFICITY: Highly expressed in immune cell types such as B-cells, neutrophils, dendritic cells and monocytes, the expression levels are two-three-fold higher in female cells compared to male cells (at protein level) (PubMed:31092820, PubMed:31001245). Expressed at low levels in T-cells and NK cells (PubMed:31001245). {ECO:0000269|PubMed:31001245, ECO:0000269|PubMed:31092820}."
+high_div,chr5,61400000,73400000,FUN_016602,GK,GK,Glycerol kinase (GK) (Glycerokinase) (EC 2.7.1.30) (ATP-stimulated glucocorticoid-receptor translocation promoter) (ASTP) (ATP:glycerol 3-phosphotransferase),Q63060,
+high_div,chr5,61400000,73400000,FUN_016603,,,,,
+high_div,chr5,61400000,73400000,FUN_016604,TAB3,TAB3,TGF-beta-activated kinase 1 and MAP3K7-binding protein 3 (Mitogen-activated protein kinase kinase kinase 7-interacting protein 3) (NF-kappa-B-activating protein 1) (TAK1-binding protein 3) (TAB-3) (TGF-beta-activated kinase 1-binding protein 3),Q8N5C8,TISSUE SPECIFICITY: Widely expressed. Constitutively overexpressed in certain tumor tissues. {ECO:0000269|PubMed:14670075}.; TISSUE SPECIFICITY: [Isoform 1]: Major transcript. {ECO:0000269|PubMed:14766965}.; TISSUE SPECIFICITY: [Isoform 2]: Minor transcript. {ECO:0000269|PubMed:14766965}.
+high_div,chr5,61400000,73400000,FUN_016605,,,,,
+high_div,chr5,61400000,73400000,FUN_30960,DMD,DMD,Dystrophin,P11533,
+high_div,chr5,61400000,73400000,FUN_016606,,,,,
+high_div,chr5,61400000,73400000,FUN_016607,,,,,
+high_div,chr5,61400000,73400000,FUN_016608,DMD,DMD,Dystrophin,Q5GN48,"TISSUE SPECIFICITY: In the retina, expressed in the outer plexiform layer (OPL) and around the blood vessels. Also observed at the vitreal border of the retina corresponding to the inner limiting membrane (ILM). Presynaptically localized in cone pedicles and postsynaptically in bipolar cells (at protein level). {ECO:0000269|PubMed:15941659}."
+high_div,chr5,61400000,73400000,FUN_016609,DMD,DMD,Dystrophin,P11530,TISSUE SPECIFICITY: Strongly expressed in skeletal muscle and weak expression observed in newborn brain which increases in adult brain. {ECO:0000269|PubMed:3340214}.
+high_div,chr5,61400000,73400000,FUN_016610,DMD,DMD,Dystrophin,Q5GN48,"TISSUE SPECIFICITY: In the retina, expressed in the outer plexiform layer (OPL) and around the blood vessels. Also observed at the vitreal border of the retina corresponding to the inner limiting membrane (ILM). Presynaptically localized in cone pedicles and postsynaptically in bipolar cells (at protein level). {ECO:0000269|PubMed:15941659}."
+high_div,chr5,61400000,73400000,FUN_016611,S100A10,S100A10,Protein S100-A10 (Calpactin I light chain) (Calpactin-1 light chain) (Cellular ligand of annexin II) (S100 calcium-binding protein A10) (p10 protein) (p11),P08207,
+high_div,chr5,61400000,73400000,FUN_016612,,,,,
+high_div,chr5,61400000,73400000,FUN_016613,DMD,DMD,Dystrophin,P11533,
+high_div,chr5,61400000,73400000,FUN_016614,DMD,DMD,Dystrophin,P11533,
+high_div,chr5,61400000,73400000,FUN_016615,,,,,
+high_div,chr5,61400000,73400000,FUN_016617,,,,,
+high_div,chr5,61400000,73400000,FUN_016619,,,,,
+high_div,chr5,61400000,73400000,FUN_016620,,,,,
+high_div,chr5,61400000,73400000,FUN_016621,DMD,DMD,Dystrophin,P11533,
+high_div,chr5,61400000,73400000,FUN_016622,DMD,DMD,Dystrophin,P11533,
+high_div,chr5,61400000,73400000,FUN_016623,,,,,
+high_div,chr5,61400000,73400000,FUN_016624,,,,,
+high_div,chr5,61400000,73400000,FUN_016625,TMEM47,TMEM47,Transmembrane protein 47 (Transmembrane 4 superfamily member 10),Q9JJG6,TISSUE SPECIFICITY: Expressed in podocytes (at protein level). {ECO:0000269|PubMed:21881001}.
+high_div,chr5,61400000,73400000,FUN_016626,E2F7,E2F7,Transcription factor E2F7 (E2F-7),D4A4D7,
+high_div,chr5,61400000,73400000,FUN_016627,,,,,
+high_div,chr5,61400000,73400000,FUN_016628,,,,,
+high_div,chr5,61400000,73400000,FUN_016629,PRRG1,,Transmembrane gamma-carboxyglutamic acid protein 1 (Proline-rich gamma-carboxyglutamic acid protein 1) (Proline-rich Gla protein 1),A7Z070,
+high_div,chr5,61400000,73400000,FUN_016630,CFAP47,CHDC2,Cilia- and flagella-associated protein 47,Q6ZTR5,TISSUE SPECIFICITY: Highly expressed in spermatzoa (at protein level). {ECO:0000269|PubMed:33472045}.
+high_div,chr5,61400000,73400000,FUN_016631,CFAP47,,Cilia- and flagella-associated protein 47,Q6ZTR5,TISSUE SPECIFICITY: Highly expressed in spermatzoa (at protein level). {ECO:0000269|PubMed:33472045}.
+high_div,chr5,61400000,73400000,FUN_016632,CFAP47,CHDC2,Cilia- and flagella-associated protein 47,Q6ZTR5,TISSUE SPECIFICITY: Highly expressed in spermatzoa (at protein level). {ECO:0000269|PubMed:33472045}.
+high_div,chr5,61400000,73400000,FUN_016633,CFAP47,CHDC2,Cilia and flagella-associated protein 47,A0A0G2JEB6,TISSUE SPECIFICITY: Highly expressed in spermatzoa (at protein level). {ECO:0000269|PubMed:33472045}.
+high_div,chr5,61400000,73400000,FUN_30961,CFAP47,CHDC2,Cilia- and flagella-associated protein 47,Q6ZTR5,TISSUE SPECIFICITY: Highly expressed in spermatzoa (at protein level). {ECO:0000269|PubMed:33472045}.
+high_div,chr5,61400000,73400000,FUN_016635,,,,,
+high_div,chr5,61400000,73400000,FUN_016636,,,,,
+high_div,chr5,61400000,73400000,FUN_016637,PRRG1,PRRG1,Transmembrane gamma-carboxyglutamic acid protein 1 (Proline-rich gamma-carboxyglutamic acid protein 1) (Proline-rich Gla protein 1),A7Z070,
+high_div,chr5,61400000,73400000,FUN_016638,XK,XK,Endoplasmic reticulum membrane adapter protein XK (Membrane transport protein XK) (XK homolog) (XK-related protein 1),Q9QXY7,
+high_div,chr5,61400000,73400000,FUN_016639,,,,,
+high_div,chr5,61400000,73400000,FUN_016640,CYBB,CYBB,Cytochrome b-245 heavy chain (EC 1.-.-.-) (CGD91-phox) (Cytochrome b(558) subunit beta) (Cytochrome b558 subunit beta) (Heme-binding membrane glycoprotein gp91phox) (Neutrophil cytochrome b 91 kDa polypeptide) (gp91-1) (gp91-phox) (p22 phagocyte B-cytochrome),O46522,
+high_div,chr5,61400000,73400000,FUN_016641,DYNLT3,DYNLT3,Dynein light chain Tctex-type 3,Q5NVF5,
+high_div,chr5,61400000,73400000,FUN_016642,SYTL5,SYTL5,Synaptotagmin-like protein 5,Q812E4,
+high_div,chr5,61400000,73400000,FUN_30962,,,,,
+high_div,chr5,61400000,73400000,FUN_016644,SRPX,SRPX,Sushi repeat-containing protein SRPX,P78539,"TISSUE SPECIFICITY: Detected in fibroblasts (at protein level) (PubMed:36213313). Retina and heart; less in placenta, pancreas, lung, liver, skeletal muscle, kidney and brain. {ECO:0000269|PubMed:36213313}."
+high_div,chr5,61400000,73400000,FUN_016645,,,,,
+high_div,chr5,61400000,73400000,FUN_016646,RPGR,RPGR,X-linked retinitis pigmentosa GTPase regulator,Q9N1T2,"TISSUE SPECIFICITY: Isoform 1 is expressed exclusively in testis. Isoforms 2, 3 and 4 are widely expressed. {ECO:0000269|PubMed:10699176}."
+high_div,chr5,61400000,73400000,FUN_30963,,,,,
+high_div,chr5,61400000,73400000,FUN_016647,,,,,
+high_div,chr5,61400000,73400000,FUN_016648,OTC,OTC,"Ornithine transcarbamylase, mitochondrial (OTCase) (EC 2.1.3.3) (Ornithine carbamoyltransferase, mitochondrial)",P00480,TISSUE SPECIFICITY: Mainly expressed in liver and intestinal mucosa.
+high_div,chr5,61400000,73400000,FUN_016649,OTC,OTC,"Ornithine transcarbamylase, mitochondrial (OTCase) (EC 2.1.3.3) (Ornithine carbamoyltransferase, mitochondrial)",Q9YHY9,"TISSUE SPECIFICITY: Expressed in kidney, brain, heart, liver, pancreas, gizzard, small intestine and breast muscle. More abundant in mitochondrion-rich organs (heart, liver and brain) than in other organs. Activity is only detected in the kidney. {ECO:0000269|PubMed:3606562}."
+high_div,chr5,61400000,73400000,FUN_016650,TSPAN7,TSPAN7,Tetraspanin-7 (Tspan-7) (Cell surface glycoprotein A15) (PE31) (TALLA homolog) (Transmembrane 4 superfamily member 2) (CD antigen CD231),Q62283,
+high_div,chr5,61400000,73400000,FUN_016651,MID1IP1,MID1IP1,Mid1-interacting protein 1 (Gastrulation-specific G12-like protein) (Mid1-interacting G12-like protein) (Protein STRAIT11499 homolog) (Spot 14-related protein) (S14R) (Spot 14-R),Q9CQ20,"TISSUE SPECIFICITY: During embryonic development, expressed mainly in the neuroepithelial midline, urogenital apparatus and digits. Detected in adult white fat, liver, heart, brain and kidney. Expressed at very low levels in lactating mammary gland. {ECO:0000269|PubMed:15070402, ECO:0000269|PubMed:15890771, ECO:0000269|PubMed:20457939}."
+high_div,chr5,61400000,73400000,FUN_016652,,,,,
+high_div,chr5,61400000,73400000,FUN_016653,,,,,
+high_div,chr5,61400000,73400000,FUN_016654,,,,,
+high_div,chr5,61400000,73400000,FUN_016655,,,,,
+high_div,chr5,61400000,73400000,FUN_016656,,,,,
+high_div,chr5,61400000,73400000,FUN_016657,,,,,
+high_div,chr5,61400000,73400000,FUN_016658,,,,,
+high_div,chr5,61400000,73400000,FUN_016659,BCOR,BCOR,BCL-6 corepressor (BCoR),Q6W2J9,TISSUE SPECIFICITY: Ubiquitously expressed. {ECO:0000269|PubMed:10898795}.
+high_div,chr5,61400000,73400000,FUN_016660,,,,,
+high_div,chr5,61400000,73400000,FUN_016661,,,,,
+high_div,chr5,61400000,73400000,FUN_016662,,,,,
+high_div,chr5,61400000,73400000,FUN_016663,,,,,
+high_div,chr5,61400000,73400000,FUN_016664,ATP6AP2,ATP6AP2,Renin receptor (ATPase H(+)-transporting lysosomal accessory protein 2) (ATPase H(+)-transporting lysosomal-interacting protein 2) (Renin/prorenin receptor) [Cleaved into: Renin receptor extracellular fragment; Renin receptor cytoplasmic fragment],Q6AXS4,TISSUE SPECIFICITY: Expressed in the brain. {ECO:0000269|PubMed:32165585}.
+high_div,chr5,61400000,73400000,FUN_016665,MED14,MED14,Mediator of RNA polymerase II transcription subunit 14 (Activator-recruited cofactor 150 kDa component) (ARC150) (Cofactor required for Sp1 transcriptional activation subunit 2) (CRSP complex subunit 2) (Mediator complex subunit 14) (RGR1 homolog) (hRGR1) (Thyroid hormone receptor-associated protein complex 170 kDa component) (Trap170) (Transcriptional coactivator CRSP150) (Vitamin D3 receptor-interacting protein complex 150 kDa component) (DRIP150),O60244,TISSUE SPECIFICITY: Ubiquitous.
+high_div,chr5,61400000,73400000,FUN_016666,,,,,
+high_div,chr5,61400000,73400000,FUN_016667,,,,,
+high_div,chr5,61400000,73400000,FUN_016668,,,,,
+high_div,chr5,61400000,73400000,FUN_016669,,,,,
+high_div,chr5,61400000,73400000,FUN_016670,,,,,
+high_div,chr5,61400000,73400000,FUN_016671,,,,,
+high_div,chr5,61400000,73400000,FUN_016672,USP9X,USP9X,"Probable ubiquitin carboxyl-terminal hydrolase FAF-X (EC 3.4.19.12) (Deubiquitinating enzyme FAF-X) (Fat facets in mammals) (hFAM) (Fat facets protein-related, X-linked) (Ubiquitin thioesterase FAF-X) (Ubiquitin-specific protease 9, X chromosome) (Ubiquitin-specific-processing protease FAF-X)",Q93008,TISSUE SPECIFICITY: Widely expressed in embryonic and adult tissues. {ECO:0000269|PubMed:8922996}.
+high_div,chr5,61400000,73400000,FUN_016673,RPL8,RPL8,Large ribosomal subunit protein uL2 (60S ribosomal protein L8),P62919,
+high_div,chr5,61400000,73400000,FUN_016674,DDX3X,DDX3X,"ATP-dependent RNA helicase DDX3X (EC 3.6.4.13) (CAP-Rf) (DEAD box protein 3, X-chromosomal) (DEAD box, X isoform) (DBX) (Helicase-like protein 2) (HLP2)",O00571,"TISSUE SPECIFICITY: Widely expressed (PubMed:15294876). In testis, expressed in spermatids (PubMed:15294876). Expressed in epidermis and liver (at protein level) (PubMed:16818630, PubMed:16301996). {ECO:0000269|PubMed:15294876, ECO:0000269|PubMed:16301996, ECO:0000269|PubMed:16818630}."
+high_div,chr5,61400000,73400000,FUN_016675,NYX,NYX,Nyctalopin,Q9GZU5,"TISSUE SPECIFICITY: Expressed in kidney and retina. Also at low levels in brain, testis and muscle. Within the retina, expressed in the inner segment of photoreceptors, outer and inner nuclear layers and the ganglion cell layer. {ECO:0000269|PubMed:11062471, ECO:0000269|PubMed:11062472}."
+high_div,chr5,61400000,73400000,FUN_016678,CASK,CASK,Peripheral plasma membrane protein CASK (EC 2.7.11.1) (Calcium/calmodulin-dependent serine protein kinase),O70589,
+high_div,chr5,61400000,73400000,FUN_016680,,,,,
+high_div,chr5,61400000,73400000,FUN_016681,,,,,
+high_div,chr5,61400000,73400000,FUN_30964,GTF2IRD2,,General transcription factor II-I repeat domain-containing protein 2A (GTF2I repeat domain-containing protein 2A) (Transcription factor GTF2IRD2-alpha),Q86UP8,TISSUE SPECIFICITY: Ubiquitous. {ECO:0000269|PubMed:15100712}.
+high_div,chr5,61400000,73400000,FUN_016682,,,,,
+high_div,chr5,61400000,73400000,FUN_016683,,,,,
+high_div,chr5,61400000,73400000,FUN_016684,,,,,
+high_div,chr5,61400000,73400000,FUN_016685,MAOA,MAOA,Amine oxidase [flavin-containing] A (EC 1.4.3.21) (EC 1.4.3.4) (Monoamine oxidase type A) (MAO-A),Q5RE60,
+high_div,chr5,61400000,73400000,FUN_016686,,,,,
+high_div,chr5,61400000,73400000,FUN_016687,MAOB,MAOB,Amine oxidase [flavin-containing] B (EC 1.4.3.21) (EC 1.4.3.4) (Monoamine oxidase type B) (MAO-B),P27338,
+high_div,chr5,61400000,73400000,FUN_016688,NDP,NDP,Norrin (Norrie disease protein homolog),Q60HE4,
+high_div,chr5,61400000,73400000,FUN_30965,EFHC2,EFHC2,EF-hand domain-containing family member C2,Q32TG3,
+high_div,chr5,61400000,73400000,FUN_016689,,,,,
+high_div,chr5,61400000,73400000,FUN_016690,FUNDC1,FUNDC1,FUN14 domain-containing protein 1,E1BWM5,
+low_div,chr5,67900000,69000000,FUN_016627,,,,,
+low_div,chr5,67900000,69000000,FUN_016628,,,,,
+low_div,chr5,67900000,69000000,FUN_016629,PRRG1,,Transmembrane gamma-carboxyglutamic acid protein 1 (Proline-rich gamma-carboxyglutamic acid protein 1) (Proline-rich Gla protein 1),A7Z070,
+low_div,chr5,67900000,69000000,FUN_016630,CFAP47,CHDC2,Cilia- and flagella-associated protein 47,Q6ZTR5,TISSUE SPECIFICITY: Highly expressed in spermatzoa (at protein level). {ECO:0000269|PubMed:33472045}.
+low_div,chr5,67900000,69000000,FUN_016631,CFAP47,,Cilia- and flagella-associated protein 47,Q6ZTR5,TISSUE SPECIFICITY: Highly expressed in spermatzoa (at protein level). {ECO:0000269|PubMed:33472045}.
+low_div,chr5,67900000,69000000,FUN_016632,CFAP47,CHDC2,Cilia- and flagella-associated protein 47,Q6ZTR5,TISSUE SPECIFICITY: Highly expressed in spermatzoa (at protein level). {ECO:0000269|PubMed:33472045}.
+low_div,chr5,67900000,69000000,FUN_016633,CFAP47,CHDC2,Cilia and flagella-associated protein 47,A0A0G2JEB6,TISSUE SPECIFICITY: Highly expressed in spermatzoa (at protein level). {ECO:0000269|PubMed:33472045}.
+low_div,chr5,67900000,69000000,FUN_30961,CFAP47,CHDC2,Cilia- and flagella-associated protein 47,Q6ZTR5,TISSUE SPECIFICITY: Highly expressed in spermatzoa (at protein level). {ECO:0000269|PubMed:33472045}.
+low_div,chr5,67900000,69000000,FUN_016635,,,,,
+low_div,chr5,67900000,69000000,FUN_016636,,,,,
+low_div,chr5,67900000,69000000,FUN_016637,PRRG1,PRRG1,Transmembrane gamma-carboxyglutamic acid protein 1 (Proline-rich gamma-carboxyglutamic acid protein 1) (Proline-rich Gla protein 1),A7Z070,
