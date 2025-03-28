@@ -1,8 +1,0 @@
-comparison,Allopatric,Recurrent,Balancing,Barrier,Allopatric|Recurrent,Allopatric|Barrier
-HCU-HEL,107,1,32,7,0,0
-HCU-HMA,82,4,16,7,0,0
-HEL-HMA,117,1,52,1,0,0
-HCU-HEL|HCU-HMA,48,2,7,1,2,0
-HCU-HEL|HEL-HMA,25,0,15,0,3,1
-HCU-HMA|HEL-HMA,44,1,6,0,3,1
-HCU-HEL|HCU-HMA|HEL-HMA,107,7,21,0,24,0

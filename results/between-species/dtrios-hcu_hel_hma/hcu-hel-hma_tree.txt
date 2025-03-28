@@ -1,2 +1,0 @@
-P1	P2	P3	Dstatistic	Z-score	p-value	f4-ratio	clustering_KS_p-val1	clustering_KS_p-val2	BBAA	ABBA	BABA
-HCU	HEL	HMA	0.04913	15.4117	2.3e-16	0.0209914	2.3e-16	4.1096e-12	228359	216667	196375
