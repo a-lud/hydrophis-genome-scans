@@ -1,7 +1,7 @@
 Demography
 ================
 Alastair Ludington
-2025-03-28
+2025-03-30
 
 - [SFS](#sfs)
   - [Data: this manuscript](#data-this-manuscript)
@@ -117,7 +117,7 @@ plot_sfs <- sfs |>
     legend.text = element_text(size = 16,face = "italic"),
     legend.title = element_blank(),
     legend.position = "inside",
-    legend.position.inside = c(0.9, 0.85),
+    legend.position.inside = c(0.85, 0.85),
     legend.key.size = unit(1, "cm")
   )
 
@@ -321,7 +321,7 @@ plot_box <- df_tajD |>
   scale_y_continuous() +
   scale_fill_manual(values = pal_within) +
   labs(x = "") +
-  theme_bw() +
+  theme_classic() +
   theme(
     axis.text.x = element_text(face = "italic"),
     legend.position = 'none'
@@ -355,7 +355,7 @@ plot_box_density <- plot_box + plot_density +
     axes = "collect", axis_titles = "collect",
     guides = 'collect'
   ) &
-  labs(y = "Tajima'S D") &
+  labs(y = "Tajima's D") &
   theme(
     axis.title = element_text(size = 18),
     axis.text = element_text(size = 16),
@@ -426,7 +426,7 @@ df_msmc |>
   gt::as_raw_html()
 ```
 
-<div id="jrzdupanjk" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="bjunqhodbh" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   &#10;  <table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; display: table; border-collapse: collapse; line-height: normal; margin-left: auto; margin-right: auto; color: #333333; font-size: 16px; font-weight: normal; font-style: normal; background-color: #FFFFFF; width: auto; border-top-style: solid; border-top-width: 2px; border-top-color: #A8A8A8; border-right-style: none; border-right-width: 2px; border-right-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #A8A8A8; border-left-style: none; border-left-width: 2px; border-left-color: #D3D3D3;" bgcolor="#FFFFFF">
   <thead style="border-style: none;">
     <tr class="gt_col_headings" style="border-style: none; border-top-style: solid; border-top-width: 2px; border-top-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3;">
